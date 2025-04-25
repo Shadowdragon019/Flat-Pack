@@ -1,0 +1,20 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "quests"
+	group: ""
+	id: "6B13B65977871B1B"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "683D7626FB9AE6D3"
+		tasks: [{
+			id: "74C078008051792B"
+			item: "minecraft:raw_iron_block"
+			type: "item"
+		}]
+		x: 0.0d
+		y: -0.5d
+	}]
+	title: "Quests"
+}

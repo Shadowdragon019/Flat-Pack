@@ -1,0 +1,890 @@
+[24Apr2025 20:00:50.414] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, Roxxane019, --version, 1.20.1, --gameDir, /home/mainy/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/Flat Create 2.0/minecraft, --assetsDir, /home/mainy/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/assets, --assetIndex, 5, --uuid, 74dd7dbd496f477d83d5671d11deb666, --accessToken, ❄❄❄❄❄❄❄❄, --userType, msa, --versionType, release, --launchTarget, forgeclient, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --width, 854, --height, 480]
+[24Apr2025 20:00:50.418] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.8 by Microsoft; OS Linux arch amd64 version 6.11.9-200.fsync.fc40.x86_64
+[24Apr2025 20:00:50.668] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: Loading ImmediateWindowProvider fmlearlywindow
+[24Apr2025 20:00:50.742] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.6
+[24Apr2025 20:00:50.922] [main/INFO] [EARLYDISPLAY/]: Requested GL version 4.6 got version 4.6
+[24Apr2025 20:00:50.970] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/home/mainy/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23140!/ Service=ModLauncher Env=CLIENT
+[24Apr2025 20:00:51.054] [pool-2-thread-1/INFO] [EARLYDISPLAY/]: GL info: NVIDIA GeForce RTX 3060/PCIe/SSE2 GL version 4.6.0 NVIDIA 560.35.03, NVIDIA Corporation
+[24Apr2025 20:00:51.184] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/mainy/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
+[24Apr2025 20:00:51.185] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/mainy/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[24Apr2025 20:00:51.186] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/mainy/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[24Apr2025 20:00:51.187] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/mainy/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[24Apr2025 20:00:51.342] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 9 dependencies adding them to mods collection
+[24Apr2025 20:00:52.344] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[24Apr2025 20:00:52.368] [main/ERROR] [mixin/]: Mixin config kubejsoffline.mixins.json does not specify "minVersion" property
+[24Apr2025 20:00:52.369] [main/ERROR] [mixin/]: Mixin config kubejsoffline-common.mixins.json does not specify "minVersion" property
+[24Apr2025 20:00:52.375] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclient' with arguments [--version, 1.20.1, --gameDir, /home/mainy/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/Flat Create 2.0/minecraft, --assetsDir, /home/mainy/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/assets, --uuid, 74dd7dbd496f477d83d5671d11deb666, --username, Roxxane019, --assetIndex, 5, --accessToken, ❄❄❄❄❄❄❄❄, --userType, msa, --versionType, release, --width, 854, --height, 480]
+[24Apr2025 20:00:52.488] [main/WARN] [mixin/]: Reference map 'kubejsoffline-forge-refmap.json' for kubejsoffline.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2025 20:00:52.727] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/vanilla.xml
+[24Apr2025 20:00:52.729] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/gregtechmodernce.xml
+[24Apr2025 20:00:52.730] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/simpletomb.xml
+[24Apr2025 20:00:52.733] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/assortedstorage.xml
+[24Apr2025 20:00:52.734] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/refinedstorage.xml
+[24Apr2025 20:00:52.736] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ic2.xml
+[24Apr2025 20:00:52.737] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/computercraft.xml
+[24Apr2025 20:00:52.738] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/mekanism.xml
+[24Apr2025 20:00:52.739] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/puzzlesapi.xml
+[24Apr2025 20:00:52.740] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ironfurnaces.xml
+[24Apr2025 20:00:53.470] [main/WARN] [mixin/]: Error loading class: mezz/modnametooltip/TooltipEventHandler (java.lang.ClassNotFoundException: mezz.modnametooltip.TooltipEventHandler)
+[24Apr2025 20:00:53.472] [main/WARN] [mixin/]: Error loading class: me/shedaniel/rei/impl/client/ClientHelperImpl (java.lang.ClassNotFoundException: me.shedaniel.rei.impl.client.ClientHelperImpl)
+[24Apr2025 20:00:53.515] [main/WARN] [mixin/]: Error loading class: com/hollingsworth/arsnouveau/common/entity/LightningEntity (java.lang.ClassNotFoundException: com.hollingsworth.arsnouveau.common.entity.LightningEntity)
+[24Apr2025 20:00:53.515] [main/WARN] [mixin/]: @Mixin target com.hollingsworth.arsnouveau.common.entity.LightningEntity was not found lychee.mixins.json:arsnouveau.LightningEntityMixin
+[24Apr2025 20:00:53.517] [main/WARN] [mixin/]: Error loading class: me/shedaniel/rei/plugin/common/displays/crafting/DefaultCraftingDisplay (java.lang.ClassNotFoundException: me.shedaniel.rei.plugin.common.displays.crafting.DefaultCraftingDisplay)
+[24Apr2025 20:00:53.518] [main/WARN] [mixin/]: @Mixin target me.shedaniel.rei.plugin.common.displays.crafting.DefaultCraftingDisplay was not found lychee.mixins.json:rei.DefaultCraftingDisplayMixin
+[24Apr2025 20:00:53.653] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
+[24Apr2025 20:00:53.776] [main/INFO] [mixin/]: Mixing client.MixinMinecraft from mixins/common/nochatreports.mixins.json into net.minecraft.client.Minecraft
+[24Apr2025 20:00:56.474] [Datafixer Bootstrap/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 188 Datafixer optimizations took 81 milliseconds
+[24Apr2025 20:00:56.717] [pool-4-thread-1/INFO] [mixin/]: Mixing common.MixinFriendlyByteBuf from mixins/common/nochatreports.mixins.json into net.minecraft.network.FriendlyByteBuf
+[24Apr2025 20:00:56.719] [pool-4-thread-1/INFO] [mixin/]: Renaming synthetic method lambda$onWriteJsonWithCodec$1(Ljava/lang/Object;Ljava/lang/String;)Lio/netty/handler/codec/EncoderException; to md2d5597$lambda$onWriteJsonWithCodec$1$0 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf
+[24Apr2025 20:00:56.719] [pool-4-thread-1/INFO] [mixin/]: Renaming synthetic method lambda$onReadJsonWithCodec$0(Ljava/lang/String;)Lio/netty/handler/codec/DecoderException; to md2d5597$lambda$onReadJsonWithCodec$0$1 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf
+[24Apr2025 20:00:56.873] [pool-4-thread-1/INFO] [mixin/]: Mixing server.MixinServerGamePacketListenerImpl from mixins/common/nochatreports.mixins.json into net.minecraft.server.network.ServerGamePacketListenerImpl
+[24Apr2025 20:00:57.665] [Render thread/INFO] [mixin/]: Mixing client.MixinTitleScreen from mixins/common/nochatreports.mixins.json into net.minecraft.client.gui.screens.TitleScreen
+[24Apr2025 20:00:57.675] [Render thread/INFO] [mixin/]: Mixing client.MixinChatScreen from mixins/common/nochatreports.mixins.json into net.minecraft.client.gui.screens.ChatScreen
+[24Apr2025 20:00:57.676] [Render thread/INFO] [mixin/]: Renaming synthetic method lambda$onInit$4()Lnet/minecraft/network/chat/Component; to md2d5597$lambda$onInit$4$0 in mixins/common/nochatreports.mixins.json:client.MixinChatScreen
+[24Apr2025 20:00:57.676] [Render thread/INFO] [mixin/]: Renaming synthetic method lambda$onInit$3(Lnet/minecraft/client/gui/components/Button;)V to md2d5597$lambda$onInit$3$1 in mixins/common/nochatreports.mixins.json:client.MixinChatScreen
+[24Apr2025 20:00:57.676] [Render thread/INFO] [mixin/]: Renaming synthetic method lambda$onInit$2()Lnet/minecraft/network/chat/Component; to md2d5597$lambda$onInit$2$2 in mixins/common/nochatreports.mixins.json:client.MixinChatScreen
+[24Apr2025 20:00:57.676] [Render thread/INFO] [mixin/]: Renaming synthetic method lambda$onInit$1(Lnet/minecraft/client/gui/components/Button;)V to md2d5597$lambda$onInit$1$3 in mixins/common/nochatreports.mixins.json:client.MixinChatScreen
+[24Apr2025 20:00:57.677] [Render thread/INFO] [mixin/]: Renaming synthetic method lambda$onBeforeMessage$0(Ljava/lang/String;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;Lcom/aizistral/nochatreports/common/encryption/Encryptor;)V to md2d5597$lambda$onBeforeMessage$0$4 in mixins/common/nochatreports.mixins.json:client.MixinChatScreen
+[24Apr2025 20:00:57.746] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/mainy/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23190!/assets/.mcassetsroot' uses unexpected schema
+[24Apr2025 20:00:57.746] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/mainy/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23190!/data/.mcassetsroot' uses unexpected schema
+[24Apr2025 20:00:57.756] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[24Apr2025 20:00:58.374] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Roxxane019
+[24Apr2025 20:00:58.376] [Render thread/INFO] [mixin/]: Mixing client.MixinToastComponent from mixins/common/nochatreports.mixins.json into net.minecraft.client.gui.components.toasts.ToastComponent
+[24Apr2025 20:00:58.379] [Render thread/INFO] [mixin/]: Mixing client.MixinOptions from mixins/common/nochatreports.mixins.json into net.minecraft.client.Options
+[24Apr2025 20:00:58.380] [Render thread/INFO] [mixin/]: Renaming synthetic method lambda$onlyShowSecureChat$0(Ljava/lang/Boolean;)V to md2d5597$lambda$onlyShowSecureChat$0$0 in mixins/common/nochatreports.mixins.json:client.MixinOptions
+[24Apr2025 20:00:58.408] [Render thread/INFO] [mixin/]: Mixing client.MixinChatComponent from mixins/common/nochatreports.mixins.json into net.minecraft.client.gui.components.ChatComponent
+[24Apr2025 20:00:58.408] [Render thread/INFO] [mixin/]: Renaming synthetic method lambda$modifyGUIMessage$1()V to md2d5597$lambda$modifyGUIMessage$1$0 in mixins/common/nochatreports.mixins.json:client.MixinChatComponent
+[24Apr2025 20:00:58.408] [Render thread/INFO] [mixin/]: Renaming synthetic method lambda$modifyGUIMessage$0(Lnet/minecraft/network/chat/FormattedText;Lnet/minecraft/network/chat/Component;)V to md2d5597$lambda$modifyGUIMessage$0$1 in mixins/common/nochatreports.mixins.json:client.MixinChatComponent
+[24Apr2025 20:00:58.413] [Render thread/INFO] [mixin/]: Mixing client.MixinGuiMessageTagIcon from mixins/common/nochatreports.mixins.json into net.minecraft.client.GuiMessageTag$Icon
+[24Apr2025 20:00:58.413] [Render thread/INFO] [mixin/]: Renaming @Invoker method create(Ljava/lang/String;IIIII)Lnet/minecraft/client/GuiMessageTag$Icon; to create_$md$2d5597$0 in mixins/common/nochatreports.mixins.json:client.MixinGuiMessageTagIcon
+[24Apr2025 20:00:58.451] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.3.1 build 7
+[24Apr2025 20:00:58.465] [Render thread/INFO] [KubeJS/]: Loaded client.properties
+[24Apr2025 20:00:58.591] [modloading-worker-0/INFO] [NoChatReports/]: KONNICHIWA ZA WARUDO!
+[24Apr2025 20:00:58.591] [modloading-worker-0/INFO] [NoChatReports/]: Default JVM text encoding is: UTF-8
+[24Apr2025 20:00:58.595] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
+[24Apr2025 20:00:58.648] [modloading-worker-0/INFO] [NoChatReports/]: Reading config file NoChatReports/NCR-Common.json...
+[24Apr2025 20:00:58.650] [modloading-worker-0/INFO] [NoChatReports/]: Reading config file NoChatReports/NCR-Client.json...
+[24Apr2025 20:00:58.653] [modloading-worker-0/INFO] [NoChatReports/]: Reading config file NoChatReports/NCR-ServerPreferences.json...
+[24Apr2025 20:00:58.659] [modloading-worker-0/INFO] [NoChatReports/]: Reading config file NoChatReports/NCR-Encryption.json...
+[24Apr2025 20:00:58.660] [modloading-worker-0/INFO] [pie.ilikepiefoo.kubejsoffline.core.api.ReflectionHelper/]: Added new union URL Type to VFS
+[24Apr2025 20:00:58.661] [modloading-worker-0/INFO] [pie.ilikepiefoo.kubejsoffline.core.api.ReflectionHelper/]: Added new directory Url Types to VFS
+[24Apr2025 20:00:58.661] [modloading-worker-0/INFO] [pie.ilikepiefoo.kubejsoffline.core.api.ReflectionHelper/]: Now attempting to load JavaAssist ClassFile class
+[24Apr2025 20:00:58.672] [modloading-worker-0/INFO] [PluginManager/]: Scanning classes for titanium
+[24Apr2025 20:00:58.694] [modloading-worker-0/INFO] [com.jozufozu.flywheel.backend.Backend/]: No shaders mod detected.
+[24Apr2025 20:00:58.704] [modloading-worker-0/INFO] [KubeJS/]: Loaded common.properties
+[24Apr2025 20:00:58.705] [modloading-worker-0/INFO] [KubeJS/]: Loaded dev.properties
+[24Apr2025 20:00:58.717] [modloading-worker-0/INFO] [NoChatReports/]: Writing config file NoChatReports/NCR-Common.json...
+[24Apr2025 20:00:58.717] [modloading-worker-0/INFO] [mixin/]: Mixing client.MixinClientConnection from mixins/forge/nochatreports-forge.mixins.json into net.minecraft.network.Connection
+[24Apr2025 20:00:58.719] [modloading-worker-0/INFO] [NoChatReports/]: Writing config file NoChatReports/NCR-Client.json...
+[24Apr2025 20:00:58.719] [modloading-worker-0/INFO] [NoChatReports/]: Writing config file NoChatReports/NCR-ServerPreferences.json...
+[24Apr2025 20:00:58.720] [modloading-worker-0/INFO] [NoChatReports/]: Writing config file NoChatReports/NCR-Encryption.json...
+[24Apr2025 20:00:58.722] [modloading-worker-0/INFO] [NoChatReports/]: Client initialization...
+[24Apr2025 20:00:58.723] [modloading-worker-0/INFO] [PluginManager/]: Scanning classes for functionalstorage
+[24Apr2025 20:00:58.731] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id architectury:sync_ids
+[24Apr2025 20:00:58.732] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[24Apr2025 20:00:58.733] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftblibrary:edit_nbt
+[24Apr2025 20:00:58.733] [modloading-worker-0/INFO] [mixin/]: Mixing client.MixinClientPacketListener from mixins/common/nochatreports.mixins.json into net.minecraft.client.multiplayer.ClientPacketListener
+[24Apr2025 20:00:58.734] [modloading-worker-0/INFO] [mixin/]: Mixing client.MixinClientPacketListener from mixins/forge/nochatreports-forge.mixins.json into net.minecraft.client.multiplayer.ClientPacketListener
+[24Apr2025 20:00:58.758] [modloading-worker-0/INFO] [KubeJS/]: Looking for KubeJS plugins...
+[24Apr2025 20:00:58.761] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[24Apr2025 20:00:58.761] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftblibrary:sync_known_server_registries
+[24Apr2025 20:00:58.771] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftblibrary:edit_config
+[24Apr2025 20:00:58.771] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source kubejs
+[24Apr2025 20:00:58.777] [modloading-worker-0/INFO] [snownee.kiwi.Kiwi/INIT]: Processing 5 KiwiModule annotations
+[24Apr2025 20:00:58.788] [modloading-worker-0/WARN] [KubeJS/]: Plugin dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration does not have required mod gamestages loaded, skipping
+[24Apr2025 20:00:58.789] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source kubejsoffline
+[24Apr2025 20:00:58.793] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source kubejs_create
+[24Apr2025 20:00:58.796] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbteams:sync_teams
+[24Apr2025 20:00:58.797] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbteams:sync_message_history
+[24Apr2025 20:00:58.801] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:open_gui
+[24Apr2025 20:00:58.802] [modloading-worker-0/INFO] [pie.ilikepiefoo.kubejsoffline.core.api.ReflectionHelper/]: Successfully loaded JavaAssist ClassFile class!
+[24Apr2025 20:00:58.802] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
+[24Apr2025 20:00:58.803] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
+[24Apr2025 20:00:58.806] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbteams:open_my_team_gui
+[24Apr2025 20:00:58.807] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:update_settings
+[24Apr2025 20:00:58.809] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbteams:update_settings_response
+[24Apr2025 20:00:58.811] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:send_message
+[24Apr2025 20:00:58.814] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbteams:send_message_response
+[24Apr2025 20:00:58.818] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbteams:update_presence
+[24Apr2025 20:00:58.819] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:create_party
+[24Apr2025 20:00:58.827] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:player_gui_operation
+[24Apr2025 20:00:58.944] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:sync_quests
+[24Apr2025 20:00:58.946] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:sync_team_data
+[24Apr2025 20:00:58.947] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:update_task_progress
+[24Apr2025 20:00:58.948] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:submit_task
+[24Apr2025 20:00:58.949] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_reward
+[24Apr2025 20:00:58.950] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:claim_reward_response
+[24Apr2025 20:00:58.951] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:sync_editing_mode
+[24Apr2025 20:00:58.951] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:get_emergency_items
+[24Apr2025 20:00:58.952] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:create_other_team_data
+[24Apr2025 20:00:58.953] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_all_rewards
+[24Apr2025 20:00:58.953] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_choice_reward
+[24Apr2025 20:00:58.954] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:display_completion_toast
+[24Apr2025 20:00:58.955] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:display_reward_toast
+[24Apr2025 20:00:58.956] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:display_item_reward_toast
+[24Apr2025 20:00:58.957] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_pinned
+[24Apr2025 20:00:58.959] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:toggle_pinned_response
+[24Apr2025 20:00:58.960] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_chapter_pinned
+[24Apr2025 20:00:58.961] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:toggle_chapter_pinned_response
+[24Apr2025 20:00:58.963] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_editing_mode
+[24Apr2025 20:00:58.967] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:force_save
+[24Apr2025 20:00:58.968] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:update_team_data
+[24Apr2025 20:00:58.969] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:set_custom_image
+[24Apr2025 20:00:58.970] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:object_started
+[24Apr2025 20:00:58.970] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:object_completed
+[24Apr2025 20:00:58.971] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:object_started_reset
+[24Apr2025 20:00:58.971] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:object_completed_reset
+[24Apr2025 20:00:58.972] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:sync_lock
+[24Apr2025 20:00:58.972] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:reset_reward
+[24Apr2025 20:00:58.973] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:team_data_changed
+[24Apr2025 20:00:58.973] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source lychee
+[24Apr2025 20:00:58.973] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:task_screen_config_req
+[24Apr2025 20:00:58.974] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:task_screen_config_resp
+[24Apr2025 20:00:58.975] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:change_progress
+[24Apr2025 20:00:58.975] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:create_object
+[24Apr2025 20:00:58.976] [modloading-worker-0/INFO] [KubeJS/]: Done in 217.0 ms
+[24Apr2025 20:00:58.976] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:create_object_response
+[24Apr2025 20:00:58.977] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:create_task_at
+[24Apr2025 20:00:58.977] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:delete_object
+[24Apr2025 20:00:58.978] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:delete_object_response
+[24Apr2025 20:00:58.979] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:edit_object
+[24Apr2025 20:00:58.980] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:edit_object_response
+[24Apr2025 20:00:58.980] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_chapter
+[24Apr2025 20:00:58.981] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:move_chapter_response
+[24Apr2025 20:00:58.981] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_quest
+[24Apr2025 20:00:58.982] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:move_quest_response
+[24Apr2025 20:00:58.982] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:change_chapter_group
+[24Apr2025 20:00:58.983] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:change_chapter_group_response
+[24Apr2025 20:00:58.983] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_chapter_group
+[24Apr2025 20:00:58.984] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:move_chapter_group_response
+[24Apr2025 20:00:58.984] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:sync_reward_blocking
+[24Apr2025 20:00:58.985] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:copy_quest
+[24Apr2025 20:00:58.989] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:copy_chapter_image
+[24Apr2025 20:00:58.989] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:sync_structures_request
+[24Apr2025 20:00:58.990] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:sync_structures_response
+[24Apr2025 20:00:58.990] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:request_team_data
+[24Apr2025 20:00:58.991] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:sync_editor_permission
+[24Apr2025 20:00:58.991] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:open_quest_book
+[24Apr2025 20:00:58.992] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id ftbquests:clear_display_cache
+[24Apr2025 20:00:59.018] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager...
+[24Apr2025 20:00:59.022] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager took 3.670 ms
+[24Apr2025 20:00:59.047] [modloading-worker-0/INFO] [snownee.lychee.Lychee/]: LycheeKubeJSPlugin is there!
+[24Apr2025 20:00:59.116] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Loading Rhino Minecraft remapper...
+[24Apr2025 20:00:59.117] [modloading-worker-0/INFO] [dev.latvian.mods.rhino.mod.util.RhinoProperties/]: Rhino properties loaded.
+[24Apr2025 20:00:59.120] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Loading mappings for 1.20.1
+[24Apr2025 20:00:59.212] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Done in 0.096 s
+[24Apr2025 20:00:59.481] [modloading-worker-0/INFO] [mixin/]: Mixing client.MixinServerData from mixins/common/nochatreports.mixins.json into net.minecraft.client.multiplayer.ServerData
+[24Apr2025 20:00:59.517] [modloading-worker-0/INFO] [mixin/]: Mixing client.MixinChatListener from mixins/common/nochatreports.mixins.json into net.minecraft.client.multiplayer.chat.ChatListener
+[24Apr2025 20:00:59.602] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script startup_scripts:block_modification.js in 0.049 s
+[24Apr2025 20:00:59.603] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script startup_scripts:custom_items.js in 0.001 s
+[24Apr2025 20:00:59.606] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded 2/2 KubeJS startup scripts in 0.391 s with 0 errors and 0 warnings
+[24Apr2025 20:00:59.659] [modloading-worker-0/INFO] [KubeJS Client/]: Loaded script client_scripts:hide_recipes.js in 0.001 s
+[24Apr2025 20:00:59.661] [modloading-worker-0/INFO] [KubeJS Client/]: Loaded script client_scripts:hide_categories.js in 0.001 s
+[24Apr2025 20:00:59.661] [modloading-worker-0/INFO] [KubeJS Client/]: Loaded 2/2 KubeJS client scripts in 0.024 s with 0 errors and 0 warnings
+[24Apr2025 20:00:59.686] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id kubejs:send_data_from_client
+[24Apr2025 20:00:59.687] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id kubejs:send_data_from_server
+[24Apr2025 20:00:59.687] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id kubejs:paint
+[24Apr2025 20:00:59.688] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id kubejs:add_stage
+[24Apr2025 20:00:59.688] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id kubejs:remove_stage
+[24Apr2025 20:00:59.689] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id kubejs:sync_stages
+[24Apr2025 20:00:59.689] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id kubejs:first_click
+[24Apr2025 20:00:59.690] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id kubejs:toast
+[24Apr2025 20:00:59.690] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id kubejs:reload_startup_scripts
+[24Apr2025 20:00:59.691] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id kubejs:display_server_errors
+[24Apr2025 20:00:59.692] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id kubejs:display_client_errors
+[24Apr2025 20:01:00.076] [modloading-worker-0/INFO] [mixin/]: Mixing server.MixinPlayerList from mixins/common/nochatreports.mixins.json into net.minecraft.server.players.PlayerList
+[24Apr2025 20:01:00.127] [modloading-worker-0/INFO] [mixin/]: Mixing common.MixinServerStatus from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.status.ServerStatus
+[24Apr2025 20:01:00.272] [Render thread/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:block_templates] initialized
+[24Apr2025 20:01:00.273] [Render thread/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:block_components] initialized
+[24Apr2025 20:01:00.273] [Render thread/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:data] initialized
+[24Apr2025 20:01:00.274] [Render thread/INFO] [snownee.kiwi.Kiwi/INIT]: 		recipe_serializer: 3
+[24Apr2025 20:01:00.274] [Render thread/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:item_templates] initialized
+[24Apr2025 20:01:01.551] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: mod_resources, vanilla, KubeJS Resource Pack [assets]
+[24Apr2025 20:01:01.559] [Render thread/INFO] [mixin/]: Mixing client.MixinJoinMultiplayerScreen from mixins/common/nochatreports.mixins.json into net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen
+[24Apr2025 20:01:01.560] [Render thread/INFO] [mixin/]: Renaming synthetic method lambda$onInit$2()Lnet/minecraft/network/chat/Component; to md2d5597$lambda$onInit$2$0 in mixins/common/nochatreports.mixins.json:client.MixinJoinMultiplayerScreen
+[24Apr2025 20:01:01.560] [Render thread/INFO] [mixin/]: Renaming synthetic method lambda$onInit$1(Lnet/minecraft/client/gui/components/Button;)V to md2d5597$lambda$onInit$1$1 in mixins/common/nochatreports.mixins.json:client.MixinJoinMultiplayerScreen
+[24Apr2025 20:01:01.560] [Render thread/INFO] [mixin/]: Renaming synthetic method lambda$onInit$0(Lnet/minecraft/client/gui/components/Button;)V to md2d5597$lambda$onInit$0$2 in mixins/common/nochatreports.mixins.json:client.MixinJoinMultiplayerScreen
+[24Apr2025 20:01:01.641] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[24Apr2025 20:01:01.656] [Worker-Main-1/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_all_no_pua-15.0.06.hex, loading
+[24Apr2025 20:01:02.110] [Render thread/INFO] [KubeJS Client/]: Client resource reload complete!
+[24Apr2025 20:01:02.157] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[24Apr2025 20:01:02.157] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[24Apr2025 20:01:02.365] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
+[24Apr2025 20:01:03.611] [Worker-Main-8/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model kubejs:incomplete_iron_casing#inventory:
+    minecraft:textures/atlas/blocks.png:kubejs:item/incomplete_iron_casing
+[24Apr2025 20:01:03.611] [Worker-Main-8/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model kubejs:planks#inventory:
+    minecraft:textures/atlas/blocks.png:kubejs:item/planks
+[24Apr2025 20:01:03.775] [Render thread/INFO] [com.jozufozu.flywheel.backend.Backend/]: Loaded all shader sources.
+[24Apr2025 20:01:05.699] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:item.goat_horn.play
+[24Apr2025 20:01:05.699] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[24Apr2025 20:01:05.747] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device GA106 High Definition Audio Controller Digital Stereo (HDMI)
+[24Apr2025 20:01:05.748] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
+[24Apr2025 20:01:05.857] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 2048x1024x3 minecraft:textures/atlas/blocks.png-atlas
+[24Apr2025 20:01:05.871] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x3 minecraft:textures/atlas/signs.png-atlas
+[24Apr2025 20:01:05.875] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x3 minecraft:textures/atlas/banner_patterns.png-atlas
+[24Apr2025 20:01:05.876] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x3 minecraft:textures/atlas/shield_patterns.png-atlas
+[24Apr2025 20:01:05.876] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x1024x3 minecraft:textures/atlas/armor_trims.png-atlas
+[24Apr2025 20:01:05.878] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x64x3 minecraft:textures/atlas/decorated_pot.png-atlas
+[24Apr2025 20:01:05.881] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x3 minecraft:textures/atlas/chest.png-atlas
+[24Apr2025 20:01:05.882] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x3 minecraft:textures/atlas/beds.png-atlas
+[24Apr2025 20:01:05.882] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x3 minecraft:textures/atlas/shulker_boxes.png-atlas
+[24Apr2025 20:01:05.964] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[24Apr2025 20:01:06.003] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[24Apr2025 20:01:06.005] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[24Apr2025 20:01:06.006] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[24Apr2025 20:01:06.007] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 jei:textures/atlas/gui.png-atlas
+[24Apr2025 20:01:06.016] [Render thread/INFO] [com.simibubi.create.Create/]: Loaded 51 train hat configurations.
+[24Apr2025 20:01:06.018] [Render thread/INFO] [snownee.kiwi.Kiwi/]: Canceling Microsoft telemetry
+[24Apr2025 20:01:27.003] [Render thread/INFO] [KubeJS Server/]: Loaded script server_scripts:tags.js in 0.001 s
+[24Apr2025 20:01:27.005] [Render thread/INFO] [KubeJS Server/]: Loaded script server_scripts:entity_hurt.js in 0.0 s
+[24Apr2025 20:01:27.005] [Render thread/INFO] [KubeJS Server/]: Loaded script server_scripts:player_tick.js in 0.0 s
+[24Apr2025 20:01:27.006] [Render thread/INFO] [KubeJS Server/]: Loaded script server_scripts:server_load.js in 0.001 s
+[24Apr2025 20:01:27.006] [Render thread/INFO] [KubeJS Server/]: Loaded script server_scripts:recipes/recipes.js in 0.0 s
+[24Apr2025 20:01:27.007] [Render thread/INFO] [KubeJS Server/]: Loaded script server_scripts:recipes/create/pressing.js in 0.001 s
+[24Apr2025 20:01:27.007] [Render thread/INFO] [KubeJS Server/]: Loaded script server_scripts:recipes/create/compacting.js in 0.0 s
+[24Apr2025 20:01:27.008] [Render thread/INFO] [KubeJS Server/]: Loaded script server_scripts:recipes/create/sequence.js in 0.001 s
+[24Apr2025 20:01:27.010] [Render thread/INFO] [KubeJS Server/]: Loaded script server_scripts:recipes/lychee/item_inside.js in 0.002 s
+[24Apr2025 20:01:27.010] [Render thread/INFO] [KubeJS Server/]: Loaded 9/9 KubeJS server scripts in 0.016 s with 0 errors and 0 warnings
+[24Apr2025 20:01:27.010] [Render thread/INFO] [KubeJS Server/]: Scripts loaded
+[24Apr2025 20:01:27.019] [Render thread/INFO] [KubeJS Server/]: Initializing recipe event...
+[24Apr2025 20:01:27.584] [Worker-Main-4/INFO] [KubeJS Server/]: [minecraft:worldgen/flat_level_generator_preset] Found 1 tags, added 1 objects, removed 9 objects
+[24Apr2025 20:01:27.882] [Render thread/INFO] [KubeJS Server/]: Processing recipes...
+[24Apr2025 20:01:27.936] [Render thread/INFO] [KubeJS Server/]: Found 2377 recipes in 53.37 ms
+[24Apr2025 20:01:27.950] [Render thread/INFO] [KubeJS Server/]: Posted recipe events in 13.22 ms
+[24Apr2025 20:01:27.961] [Render thread/INFO] [KubeJS Server/]: Added 5 recipes, removed 2377 recipes, modified 0 recipes, with 0 failed recipes in 8.881 ms
+[24Apr2025 20:01:29.013] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Starting integrated minecraft server version 1.20.1
+[24Apr2025 20:01:29.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[24Apr2025 20:01:29.105] [Server thread/INFO] [FTB Teams/]: loaded team data: 1 known players, 1 teams total
+[24Apr2025 20:01:29.109] [Server thread/INFO] [portb.configlib.ConfigLib/]: Reading stacksize ruleset
+[24Apr2025 20:01:29.113] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Starting config file watcher
+[24Apr2025 20:01:29.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[24Apr2025 20:01:29.263] [Server thread/INFO] [KubeJS Server/]: Server resource reload complete!
+[24Apr2025 20:01:30.181] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Apr2025 20:01:30.181] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Apr2025 20:01:30.267] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Apr2025 20:01:30.775] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 91%
+[24Apr2025 20:01:30.789] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[24Apr2025 20:01:30.792] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 1526 ms
+[24Apr2025 20:01:30.800] [Server thread/INFO] [FTB Quests/]: Loading quests from /home/mainy/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/Flat Create 2.0/minecraft/config/ftbquests/quests
+[24Apr2025 20:01:30.812] [Server thread/INFO] [FTB Quests/]: Loaded 1 chapter groups, 1 chapters, 1 quests, 0 reward tables
+[24Apr2025 20:01:30.917] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing view distance to 32, from 10
+[24Apr2025 20:01:30.919] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing simulation distance to 32, from 0
+[24Apr2025 20:01:30.962] [Render thread/WARN] [io.netty.util.internal.SystemPropertyUtil/]: Unable to parse the boolean system property 'java.net.preferIPv6Addresses':system - using the default value: false
+[24Apr2025 20:01:30.997] [Render thread/INFO] [mixin/]: Mixing client.MixinClientHandshakePacketListenerImpl from mixins/forge/nochatreports-forge.mixins.json into net.minecraft.client.multiplayer.ClientHandshakePacketListenerImpl
+[24Apr2025 20:01:31.058] [Netty Local Client IO #0/INFO] [mixin/]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatCommandPacket
+[24Apr2025 20:01:31.060] [Netty Local Client IO #0/INFO] [mixin/]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatPacket
+[24Apr2025 20:01:31.061] [Netty Local Client IO #0/INFO] [mixin/]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatSessionUpdatePacket
+[24Apr2025 20:01:31.519] [Netty Local Client IO #0/INFO] [net.minecraftforge.network.NetworkHooks/]: Connected to a modded server.
+[24Apr2025 20:01:31.527] [Netty Local Client IO #0/INFO] [snownee.kiwi.Kiwi/]: Canceling Microsoft telemetry
+[24Apr2025 20:01:31.547] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Roxxane019[local:E:21d0046b] logged in with entity id 1 at (15.608790975570399, 9.796735600668693, -13.111098202141628)
+[24Apr2025 20:01:31.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxxane019 joined the game
+[24Apr2025 20:01:31.636] [Render thread/INFO] [BatchExecutor/]: Started 10 worker threads
+[24Apr2025 20:01:31.643] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingIn
+[24Apr2025 20:01:31.643] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from DISABLED to ENABLED
+[24Apr2025 20:01:31.653] [Netty Local Client IO #0/INFO] [FTB Quests/]: Read 650 bytes, 4 objects
+[24Apr2025 20:01:31.660] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.client.event.RecipesUpdatedEvent
+[24Apr2025 20:01:31.673] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
+[24Apr2025 20:01:31.673] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from ENABLED to JEI_STARTED
+[24Apr2025 20:01:31.674] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Starting JEI...
+[24Apr2025 20:01:31.680] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering item subtypes...
+[24Apr2025 20:01:31.683] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering item subtypes took 3.172 ms
+[24Apr2025 20:01:31.684] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering fluid subtypes...
+[24Apr2025 20:01:31.685] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering fluid subtypes took 1.556 ms
+[24Apr2025 20:01:31.687] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering ingredients...
+[24Apr2025 20:01:31.778] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering ingredients: jei:minecraft took 90.94 milliseconds
+[24Apr2025 20:01:31.780] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering ingredients took 92.74 ms
+[24Apr2025 20:01:31.780] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering extra ingredients...
+[24Apr2025 20:01:31.780] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering extra ingredients took 528.3 μs
+[24Apr2025 20:01:31.781] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering search ingredient aliases...
+[24Apr2025 20:01:31.782] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering search ingredient aliases took 695.6 μs
+[24Apr2025 20:01:31.795] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering categories...
+[24Apr2025 20:01:31.810] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering categories: jei:minecraft took 13.91 milliseconds
+[24Apr2025 20:01:31.846] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering categories: create:jei_plugin took 36.07 milliseconds
+[24Apr2025 20:01:31.855] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering categories took 60.06 ms
+[24Apr2025 20:01:31.856] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering vanilla category extensions...
+[24Apr2025 20:01:31.865] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering vanilla category extensions took 9.140 ms
+[24Apr2025 20:01:31.866] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipe catalysts...
+[24Apr2025 20:01:31.869] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipe catalysts took 2.789 ms
+[24Apr2025 20:01:31.870] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building recipe registry...
+[24Apr2025 20:01:31.882] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building recipe registry took 11.91 ms
+[24Apr2025 20:01:31.883] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering advanced plugins...
+[24Apr2025 20:01:31.884] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering advanced plugins took 510.0 μs
+[24Apr2025 20:01:31.885] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes...
+[24Apr2025 20:01:32.062] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: jei:minecraft took 177.1 milliseconds
+[24Apr2025 20:01:32.131] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: create:jei_plugin took 68.58 milliseconds
+[24Apr2025 20:01:32.139] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes took 253.8 ms
+[24Apr2025 20:01:32.144] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes transfer handlers...
+[24Apr2025 20:01:32.148] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes transfer handlers took 3.320 ms
+[24Apr2025 20:01:32.155] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building runtime...
+[24Apr2025 20:01:32.157] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering gui handlers...
+[24Apr2025 20:01:32.184] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering gui handlers: create:jei_plugin took 16.17 milliseconds
+[24Apr2025 20:01:32.184] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering gui handlers took 27.06 ms
+[24Apr2025 20:01:32.189] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Runtime...
+[24Apr2025 20:01:32.197] [Render thread/INFO] [mezz.jei.gui.startup.JeiGuiStarter/]: Starting JEI GUI
+[24Apr2025 20:01:32.198] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient list...
+[24Apr2025 20:01:32.283] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient list took 85.06 ms
+[24Apr2025 20:01:32.283] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient filter...
+[24Apr2025 20:01:32.325] [Render thread/INFO] [mezz.jei.gui.ingredients.IngredientFilter/]: Adding 2306 ingredients
+[24Apr2025 20:01:32.614] [Render thread/INFO] [mezz.jei.gui.ingredients.IngredientFilter/]: Added 2306 ingredients
+[24Apr2025 20:01:32.615] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient filter took 331.9 ms
+[24Apr2025 20:01:32.694] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering Runtime: jei:forge_gui took 500.7 milliseconds
+[24Apr2025 20:01:32.694] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Runtime took 504.8 ms
+[24Apr2025 20:01:32.695] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building runtime took 539.8 ms
+[24Apr2025 20:01:32.695] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime...
+[24Apr2025 20:01:32.703] [Render thread/INFO] [KubeJS Client/]: hide_recipes.js#3: [minecraft:crafting, lychee:item_inside/minecraft/default, create:item_application, create:draining, minecraft:fuel, create:mystery_conversion, create:packing, create:spout_filling, create:pressing] [java.util.ArrayList]
+[24Apr2025 20:01:32.705] [Render thread/WARN] [KubeJS/]: Failed to remove recipe minecraft:glass_bottle for type RecipeType[uid=create:draining, recipeClass=class com.simibubi.create.content.fluids.transfer.EmptyingRecipe]: Recipe doesn't exist!
+[24Apr2025 20:01:32.705] [Render thread/WARN] [KubeJS/]: Failed to remove recipe minecraft:glass_bottle for type RecipeType[uid=create:spout_filling, recipeClass=class com.simibubi.create.content.fluids.transfer.FillingRecipe]: Recipe doesn't exist!
+[24Apr2025 20:01:32.706] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime took 10.51 ms
+[24Apr2025 20:01:32.706] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Starting JEI took 1.032 s
+[24Apr2025 20:02:45.503] [Render thread/INFO] [mixin/]: Mixing client.MixinRowHelper from mixins/common/nochatreports.mixins.json into net.minecraft.client.gui.layouts.GridLayout$RowHelper
+[24Apr2025 20:02:45.508] [Render thread/INFO] [mixin/]: Mixing client.MixinChatOptionsScreen from mixins/common/nochatreports.mixins.json into net.minecraft.client.gui.screens.ChatOptionsScreen
+[24Apr2025 20:02:45.508] [Render thread/INFO] [mixin/]: Renaming synthetic method lambda$init$0(Lnet/minecraft/client/gui/components/AbstractWidget;)V to md2d5597$lambda$init$0$0 in mixins/common/nochatreports.mixins.json:client.MixinChatOptionsScreen
+[24Apr2025 20:02:45.515] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[24Apr2025 20:02:45.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[24Apr2025 20:02:45.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[24Apr2025 20:02:45.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[24Apr2025 20:03:00.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxxane019: Reloading!]
+[24Apr2025 20:03:00.482] [Render thread/INFO] [mixin/]: Mixing client.MixinGuiMessageTag from mixins/common/nochatreports.mixins.json into net.minecraft.client.GuiMessageTag
+[24Apr2025 20:03:00.484] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] Reloading!
+[24Apr2025 20:03:00.489] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:tags.js in 0.001 s
+[24Apr2025 20:03:00.490] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:entity_hurt.js in 0.001 s
+[24Apr2025 20:03:00.490] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:player_tick.js in 0.0 s
+[24Apr2025 20:03:00.490] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:server_load.js in 0.0 s
+[24Apr2025 20:03:00.491] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:recipes/recipes.js in 0.0 s
+[24Apr2025 20:03:00.491] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:recipes/create/pressing.js in 0.0 s
+[24Apr2025 20:03:00.491] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:recipes/create/compacting.js in 0.0 s
+[24Apr2025 20:03:00.492] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:recipes/create/sequence.js in 0.001 s
+[24Apr2025 20:03:00.493] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:recipes/lychee/item_inside.js in 0.001 s
+[24Apr2025 20:03:00.493] [Server thread/INFO] [KubeJS Server/]: Loaded 9/9 KubeJS server scripts in 0.011 s with 0 errors and 0 warnings
+[24Apr2025 20:03:00.493] [Server thread/INFO] [KubeJS Server/]: Scripts loaded
+[24Apr2025 20:03:00.493] [Server thread/INFO] [KubeJS Server/]: Initializing recipe event...
+[24Apr2025 20:03:00.499] [Worker-Main-10/INFO] [KubeJS Server/]: [minecraft:worldgen/flat_level_generator_preset] Found 1 tags, added 1 objects, removed 9 objects
+[24Apr2025 20:03:00.659] [Server thread/INFO] [KubeJS Server/]: Processing recipes...
+[24Apr2025 20:03:00.683] [Server thread/INFO] [KubeJS Server/]: Found 2377 recipes in 23.30 ms
+[24Apr2025 20:03:00.685] [Server thread/INFO] [KubeJS Server/]: Posted recipe events in 1.727 ms
+[24Apr2025 20:03:00.708] [Server thread/INFO] [KubeJS Server/]: Added 5 recipes, removed 0 recipes, modified 3 recipes, with 0 failed recipes in 22.57 ms
+[24Apr2025 20:03:00.711] [Render thread/INFO] [FTB Quests/]: cleared item display cache
+[24Apr2025 20:03:01.717] [Server thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
+[24Apr2025 20:03:01.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reloaded with no KubeJS errors!
+[24Apr2025 20:03:01.735] [Server thread/INFO] [KubeJS Server/]: Server resource reload complete!
+[24Apr2025 20:03:01.817] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
+[24Apr2025 20:03:01.898] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.client.event.RecipesUpdatedEvent
+[24Apr2025 20:03:01.898] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[24Apr2025 20:03:01.898] [Render thread/INFO] [mezz.jei.library.startup.JeiStarter/]: Stopping JEI
+[24Apr2025 20:03:01.898] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable...
+[24Apr2025 20:03:01.899] [Render thread/INFO] [mezz.jei.forge.plugins.forge.ForgeGuiPlugin/]: Stopping JEI GUI
+[24Apr2025 20:03:01.900] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable took 1.726 ms
+[24Apr2025 20:03:01.900] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from DISABLED to ENABLED
+[24Apr2025 20:03:01.900] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from ENABLED to JEI_STARTED
+[24Apr2025 20:03:01.900] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Starting JEI...
+[24Apr2025 20:03:01.900] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering item subtypes...
+[24Apr2025 20:03:01.901] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering item subtypes took 346.5 μs
+[24Apr2025 20:03:01.901] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering fluid subtypes...
+[24Apr2025 20:03:01.901] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering fluid subtypes took 297.2 μs
+[24Apr2025 20:03:01.901] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering ingredients...
+[24Apr2025 20:03:01.913] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering ingredients: jei:minecraft took 11.95 milliseconds
+[24Apr2025 20:03:01.914] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering ingredients took 12.45 ms
+[24Apr2025 20:03:01.914] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering extra ingredients...
+[24Apr2025 20:03:01.914] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering extra ingredients took 391.2 μs
+[24Apr2025 20:03:01.914] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering search ingredient aliases...
+[24Apr2025 20:03:01.914] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering search ingredient aliases took 366.8 μs
+[24Apr2025 20:03:01.915] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering categories...
+[24Apr2025 20:03:01.916] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering categories took 870.8 μs
+[24Apr2025 20:03:01.916] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering vanilla category extensions...
+[24Apr2025 20:03:01.916] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering vanilla category extensions took 286.5 μs
+[24Apr2025 20:03:01.916] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipe catalysts...
+[24Apr2025 20:03:01.917] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipe catalysts took 722.7 μs
+[24Apr2025 20:03:01.917] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building recipe registry...
+[24Apr2025 20:03:01.918] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building recipe registry took 692.0 μs
+[24Apr2025 20:03:01.918] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering advanced plugins...
+[24Apr2025 20:03:01.918] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering advanced plugins took 319.1 μs
+[24Apr2025 20:03:01.919] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes...
+[24Apr2025 20:03:02.020] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: jei:minecraft took 101.2 milliseconds
+[24Apr2025 20:03:02.082] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: create:jei_plugin took 61.45 milliseconds
+[24Apr2025 20:03:02.082] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes took 163.9 ms
+[24Apr2025 20:03:02.085] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes transfer handlers...
+[24Apr2025 20:03:02.085] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes transfer handlers took 463.2 μs
+[24Apr2025 20:03:02.085] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building runtime...
+[24Apr2025 20:03:02.085] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering gui handlers...
+[24Apr2025 20:03:02.086] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering gui handlers took 384.4 μs
+[24Apr2025 20:03:02.086] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Runtime...
+[24Apr2025 20:03:02.086] [Render thread/INFO] [mezz.jei.gui.startup.JeiGuiStarter/]: Starting JEI GUI
+[24Apr2025 20:03:02.086] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient list...
+[24Apr2025 20:03:02.099] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient list took 12.62 ms
+[24Apr2025 20:03:02.099] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient filter...
+[24Apr2025 20:03:02.101] [Render thread/INFO] [mezz.jei.gui.ingredients.IngredientFilter/]: Adding 2306 ingredients
+[24Apr2025 20:03:02.213] [Render thread/INFO] [mezz.jei.gui.ingredients.IngredientFilter/]: Added 2306 ingredients
+[24Apr2025 20:03:02.213] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient filter took 113.7 ms
+[24Apr2025 20:03:02.224] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering Runtime: jei:forge_gui took 138.2 milliseconds
+[24Apr2025 20:03:02.225] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Runtime took 138.7 ms
+[24Apr2025 20:03:02.225] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building runtime took 139.3 ms
+[24Apr2025 20:03:02.225] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime...
+[24Apr2025 20:03:02.226] [Render thread/INFO] [KubeJS Client/]: hide_recipes.js#3: [minecraft:stonecutting, create:item_application, create:mixing, create:sawing, create:automatic_shaped, minecraft:smithing, create:fan_blasting, create:automatic_shapeless, lychee:item_inside/minecraft/default, functionalstorage:dissolution, minecraft:smoking, minecraft:campfire, create:crushing, create:packing, create:fan_haunting, create:deploying, create:draining, minecraft:furnace, minecraft:fuel, create:block_cutting, minecraft:blasting, create:automatic_packing, create:milling, create:mechanical_crafting, create:spout_filling, minecraft:crafting, create:fan_smoking, create:fan_washing, create:sequenced_assembly, create:sandpaper_polishing, create:mystery_conversion, create:pressing] [java.util.ArrayList]
+[24Apr2025 20:03:02.226] [Render thread/WARN] [KubeJS/]: Failed to remove recipe minecraft:glass_bottle for type RecipeType[uid=create:spout_filling, recipeClass=class com.simibubi.create.content.fluids.transfer.FillingRecipe]: Recipe doesn't exist!
+[24Apr2025 20:03:02.226] [Render thread/WARN] [KubeJS/]: Failed to remove recipe minecraft:glass_bottle for type RecipeType[uid=create:draining, recipeClass=class com.simibubi.create.content.fluids.transfer.EmptyingRecipe]: Recipe doesn't exist!
+[24Apr2025 20:03:02.226] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime took 1.532 ms
+[24Apr2025 20:03:02.226] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Starting JEI took 326.3 ms
+[24Apr2025 20:03:02.230] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] Reloaded with no KubeJS errors!
+[24Apr2025 20:04:53.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxxane019: Reloading!]
+[24Apr2025 20:04:53.095] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] Reloading!
+[24Apr2025 20:04:53.102] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:tags.js in 0.001 s
+[24Apr2025 20:04:53.102] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:entity_hurt.js in 0.0 s
+[24Apr2025 20:04:53.103] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:player_tick.js in 0.0 s
+[24Apr2025 20:04:53.103] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:server_load.js in 0.0 s
+[24Apr2025 20:04:53.103] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:recipes/recipes.js in 0.0 s
+[24Apr2025 20:04:53.103] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:recipes/create/pressing.js in 0.0 s
+[24Apr2025 20:04:53.104] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:recipes/create/compacting.js in 0.001 s
+[24Apr2025 20:04:53.104] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:recipes/create/sequence.js in 0.0 s
+[24Apr2025 20:04:53.105] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:recipes/lychee/item_inside.js in 0.0 s
+[24Apr2025 20:04:53.105] [Server thread/INFO] [KubeJS Server/]: Loaded 9/9 KubeJS server scripts in 0.009 s with 0 errors and 0 warnings
+[24Apr2025 20:04:53.105] [Server thread/INFO] [KubeJS Server/]: Scripts loaded
+[24Apr2025 20:04:53.105] [Server thread/INFO] [KubeJS Server/]: Initializing recipe event...
+[24Apr2025 20:04:53.110] [Worker-Main-5/INFO] [KubeJS Server/]: [minecraft:worldgen/flat_level_generator_preset] Found 1 tags, added 1 objects, removed 9 objects
+[24Apr2025 20:04:53.246] [Server thread/INFO] [KubeJS Server/]: Processing recipes...
+[24Apr2025 20:04:53.274] [Server thread/INFO] [KubeJS Server/]: Found 2377 recipes in 27.58 ms
+[24Apr2025 20:04:53.276] [Server thread/INFO] [KubeJS Server/]: Posted recipe events in 1.789 ms
+[24Apr2025 20:04:53.290] [Server thread/INFO] [KubeJS Server/]: Added 5 recipes, removed 0 recipes, modified 3 recipes, with 0 failed recipes in 13.14 ms
+[24Apr2025 20:04:53.291] [Render thread/INFO] [FTB Quests/]: cleared item display cache
+[24Apr2025 20:04:54.268] [Server thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
+[24Apr2025 20:04:54.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reloaded with no KubeJS errors!
+[24Apr2025 20:04:54.283] [Server thread/INFO] [KubeJS Server/]: Server resource reload complete!
+[24Apr2025 20:04:54.367] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
+[24Apr2025 20:04:54.437] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.client.event.RecipesUpdatedEvent
+[24Apr2025 20:04:54.437] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[24Apr2025 20:04:54.437] [Render thread/INFO] [mezz.jei.library.startup.JeiStarter/]: Stopping JEI
+[24Apr2025 20:04:54.437] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable...
+[24Apr2025 20:04:54.437] [Render thread/INFO] [mezz.jei.forge.plugins.forge.ForgeGuiPlugin/]: Stopping JEI GUI
+[24Apr2025 20:04:54.438] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable took 1.412 ms
+[24Apr2025 20:04:54.438] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from DISABLED to ENABLED
+[24Apr2025 20:04:54.438] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from ENABLED to JEI_STARTED
+[24Apr2025 20:04:54.438] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Starting JEI...
+[24Apr2025 20:04:54.439] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering item subtypes...
+[24Apr2025 20:04:54.439] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering item subtypes took 220.8 μs
+[24Apr2025 20:04:54.439] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering fluid subtypes...
+[24Apr2025 20:04:54.439] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering fluid subtypes took 254.7 μs
+[24Apr2025 20:04:54.439] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering ingredients...
+[24Apr2025 20:04:54.450] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering ingredients took 10.98 ms
+[24Apr2025 20:04:54.450] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering extra ingredients...
+[24Apr2025 20:04:54.451] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering extra ingredients took 318.8 μs
+[24Apr2025 20:04:54.451] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering search ingredient aliases...
+[24Apr2025 20:04:54.451] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering search ingredient aliases took 245.0 μs
+[24Apr2025 20:04:54.451] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering categories...
+[24Apr2025 20:04:54.452] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering categories took 647.8 μs
+[24Apr2025 20:04:54.452] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering vanilla category extensions...
+[24Apr2025 20:04:54.452] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering vanilla category extensions took 206.1 μs
+[24Apr2025 20:04:54.452] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipe catalysts...
+[24Apr2025 20:04:54.453] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipe catalysts took 477.8 μs
+[24Apr2025 20:04:54.453] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building recipe registry...
+[24Apr2025 20:04:54.453] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building recipe registry took 325.4 μs
+[24Apr2025 20:04:54.453] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering advanced plugins...
+[24Apr2025 20:04:54.454] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering advanced plugins took 209.4 μs
+[24Apr2025 20:04:54.454] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes...
+[24Apr2025 20:04:54.510] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: jei:minecraft took 56.41 milliseconds
+[24Apr2025 20:04:54.549] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: create:jei_plugin took 38.69 milliseconds
+[24Apr2025 20:04:54.550] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes took 96.18 ms
+[24Apr2025 20:04:54.552] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes transfer handlers...
+[24Apr2025 20:04:54.552] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes transfer handlers took 466.3 μs
+[24Apr2025 20:04:54.552] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building runtime...
+[24Apr2025 20:04:54.552] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering gui handlers...
+[24Apr2025 20:04:54.553] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering gui handlers took 301.0 μs
+[24Apr2025 20:04:54.553] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Runtime...
+[24Apr2025 20:04:54.553] [Render thread/INFO] [mezz.jei.gui.startup.JeiGuiStarter/]: Starting JEI GUI
+[24Apr2025 20:04:54.553] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient list...
+[24Apr2025 20:04:54.567] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient list took 13.40 ms
+[24Apr2025 20:04:54.567] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient filter...
+[24Apr2025 20:04:54.568] [Render thread/INFO] [mezz.jei.gui.ingredients.IngredientFilter/]: Adding 2306 ingredients
+[24Apr2025 20:04:54.633] [Render thread/INFO] [mezz.jei.gui.ingredients.IngredientFilter/]: Added 2306 ingredients
+[24Apr2025 20:04:54.633] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient filter took 66.77 ms
+[24Apr2025 20:04:54.642] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering Runtime: jei:forge_gui took 89.27 milliseconds
+[24Apr2025 20:04:54.643] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Runtime took 89.72 ms
+[24Apr2025 20:04:54.643] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building runtime took 90.20 ms
+[24Apr2025 20:04:54.643] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime...
+[24Apr2025 20:04:54.644] [Render thread/INFO] [KubeJS Client/]: hide_recipes.js#3: [minecraft:stonecutting, create:item_application, create:mixing, create:sawing, create:automatic_shaped, minecraft:smithing, create:fan_blasting, create:automatic_shapeless, lychee:item_inside/minecraft/default, functionalstorage:dissolution, minecraft:smoking, minecraft:campfire, create:crushing, create:packing, create:fan_haunting, create:deploying, create:draining, minecraft:furnace, minecraft:fuel, create:block_cutting, minecraft:blasting, create:automatic_packing, create:milling, create:mechanical_crafting, create:spout_filling, minecraft:crafting, create:fan_smoking, create:fan_washing, create:sequenced_assembly, create:sandpaper_polishing, create:mystery_conversion, create:pressing] [java.util.ArrayList]
+[24Apr2025 20:04:54.644] [Render thread/WARN] [KubeJS/]: Failed to remove recipe minecraft:glass_bottle for type RecipeType[uid=create:spout_filling, recipeClass=class com.simibubi.create.content.fluids.transfer.FillingRecipe]: Recipe doesn't exist!
+[24Apr2025 20:04:54.644] [Render thread/WARN] [KubeJS/]: Failed to remove recipe minecraft:glass_bottle for type RecipeType[uid=create:draining, recipeClass=class com.simibubi.create.content.fluids.transfer.EmptyingRecipe]: Recipe doesn't exist!
+[24Apr2025 20:04:54.644] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime took 1.329 ms
+[24Apr2025 20:04:54.644] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Starting JEI took 205.6 ms
+[24Apr2025 20:04:54.647] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] Reloaded with no KubeJS errors!
+[24Apr2025 20:04:56.479] [Server thread/INFO] [KubeJS Client/]: Loaded script client_scripts:hide_recipes.js in 0.0 s
+[24Apr2025 20:04:56.480] [Server thread/INFO] [KubeJS Client/]: Loaded script client_scripts:hide_categories.js in 0.001 s
+[24Apr2025 20:04:56.480] [Server thread/INFO] [KubeJS Client/]: Loaded 2/2 KubeJS client scripts in 0.007 s with 0 errors and 0 warnings
+[24Apr2025 20:04:56.485] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] Done! To reload textures, models and other assets, press F3 + T
+[24Apr2025 20:05:02.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxxane019: Reloading!]
+[24Apr2025 20:05:02.186] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] Reloading!
+[24Apr2025 20:05:02.194] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:tags.js in 0.001 s
+[24Apr2025 20:05:02.194] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:entity_hurt.js in 0.0 s
+[24Apr2025 20:05:02.195] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:player_tick.js in 0.0 s
+[24Apr2025 20:05:02.195] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:server_load.js in 0.0 s
+[24Apr2025 20:05:02.195] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:recipes/recipes.js in 0.0 s
+[24Apr2025 20:05:02.196] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:recipes/create/pressing.js in 0.001 s
+[24Apr2025 20:05:02.196] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:recipes/create/compacting.js in 0.0 s
+[24Apr2025 20:05:02.196] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:recipes/create/sequence.js in 0.0 s
+[24Apr2025 20:05:02.197] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:recipes/lychee/item_inside.js in 0.001 s
+[24Apr2025 20:05:02.197] [Server thread/INFO] [KubeJS Server/]: Loaded 9/9 KubeJS server scripts in 0.008 s with 0 errors and 0 warnings
+[24Apr2025 20:05:02.197] [Server thread/INFO] [KubeJS Server/]: Scripts loaded
+[24Apr2025 20:05:02.197] [Server thread/INFO] [KubeJS Server/]: Initializing recipe event...
+[24Apr2025 20:05:02.203] [Worker-Main-5/INFO] [KubeJS Server/]: [minecraft:worldgen/flat_level_generator_preset] Found 1 tags, added 1 objects, removed 9 objects
+[24Apr2025 20:05:02.323] [Server thread/INFO] [KubeJS Server/]: Processing recipes...
+[24Apr2025 20:05:02.347] [Server thread/INFO] [KubeJS Server/]: Found 2377 recipes in 23.04 ms
+[24Apr2025 20:05:02.349] [Server thread/INFO] [KubeJS Server/]: Posted recipe events in 1.483 ms
+[24Apr2025 20:05:02.360] [Server thread/INFO] [KubeJS Server/]: Added 5 recipes, removed 0 recipes, modified 3 recipes, with 0 failed recipes in 11.43 ms
+[24Apr2025 20:05:02.363] [Render thread/INFO] [FTB Quests/]: cleared item display cache
+[24Apr2025 20:05:03.346] [Server thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
+[24Apr2025 20:05:03.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reloaded with no KubeJS errors!
+[24Apr2025 20:05:03.364] [Server thread/INFO] [KubeJS Server/]: Server resource reload complete!
+[24Apr2025 20:05:03.443] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
+[24Apr2025 20:05:03.513] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.client.event.RecipesUpdatedEvent
+[24Apr2025 20:05:03.513] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[24Apr2025 20:05:03.513] [Render thread/INFO] [mezz.jei.library.startup.JeiStarter/]: Stopping JEI
+[24Apr2025 20:05:03.513] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable...
+[24Apr2025 20:05:03.513] [Render thread/INFO] [mezz.jei.forge.plugins.forge.ForgeGuiPlugin/]: Stopping JEI GUI
+[24Apr2025 20:05:03.514] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable took 1.247 ms
+[24Apr2025 20:05:03.514] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from DISABLED to ENABLED
+[24Apr2025 20:05:03.514] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from ENABLED to JEI_STARTED
+[24Apr2025 20:05:03.514] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Starting JEI...
+[24Apr2025 20:05:03.514] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering item subtypes...
+[24Apr2025 20:05:03.515] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering item subtypes took 260.5 μs
+[24Apr2025 20:05:03.515] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering fluid subtypes...
+[24Apr2025 20:05:03.515] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering fluid subtypes took 203.7 μs
+[24Apr2025 20:05:03.515] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering ingredients...
+[24Apr2025 20:05:03.525] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering ingredients took 10.24 ms
+[24Apr2025 20:05:03.525] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering extra ingredients...
+[24Apr2025 20:05:03.526] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering extra ingredients took 282.4 μs
+[24Apr2025 20:05:03.526] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering search ingredient aliases...
+[24Apr2025 20:05:03.526] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering search ingredient aliases took 257.7 μs
+[24Apr2025 20:05:03.526] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering categories...
+[24Apr2025 20:05:03.527] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering categories took 609.7 μs
+[24Apr2025 20:05:03.527] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering vanilla category extensions...
+[24Apr2025 20:05:03.527] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering vanilla category extensions took 216.5 μs
+[24Apr2025 20:05:03.527] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipe catalysts...
+[24Apr2025 20:05:03.528] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipe catalysts took 481.2 μs
+[24Apr2025 20:05:03.528] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building recipe registry...
+[24Apr2025 20:05:03.533] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building recipe registry took 4.818 ms
+[24Apr2025 20:05:03.533] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering advanced plugins...
+[24Apr2025 20:05:03.533] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering advanced plugins took 289.2 μs
+[24Apr2025 20:05:03.533] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes...
+[24Apr2025 20:05:03.604] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: jei:minecraft took 70.55 milliseconds
+[24Apr2025 20:05:03.644] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: create:jei_plugin took 39.72 milliseconds
+[24Apr2025 20:05:03.645] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes took 111.6 ms
+[24Apr2025 20:05:03.646] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes transfer handlers...
+[24Apr2025 20:05:03.646] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes transfer handlers took 444.4 μs
+[24Apr2025 20:05:03.647] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building runtime...
+[24Apr2025 20:05:03.647] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering gui handlers...
+[24Apr2025 20:05:03.647] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering gui handlers took 354.5 μs
+[24Apr2025 20:05:03.647] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Runtime...
+[24Apr2025 20:05:03.647] [Render thread/INFO] [mezz.jei.gui.startup.JeiGuiStarter/]: Starting JEI GUI
+[24Apr2025 20:05:03.647] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient list...
+[24Apr2025 20:05:03.664] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient list took 16.65 ms
+[24Apr2025 20:05:03.664] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient filter...
+[24Apr2025 20:05:03.666] [Render thread/INFO] [mezz.jei.gui.ingredients.IngredientFilter/]: Adding 2306 ingredients
+[24Apr2025 20:05:03.741] [Render thread/INFO] [mezz.jei.gui.ingredients.IngredientFilter/]: Added 2306 ingredients
+[24Apr2025 20:05:03.741] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient filter took 76.61 ms
+[24Apr2025 20:05:03.751] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering Runtime: jei:forge_gui took 103.5 milliseconds
+[24Apr2025 20:05:03.751] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Runtime took 104.0 ms
+[24Apr2025 20:05:03.751] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building runtime took 104.6 ms
+[24Apr2025 20:05:03.751] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime...
+[24Apr2025 20:05:03.753] [Render thread/INFO] [KubeJS Client/]: hide_recipes.js#3: [minecraft:stonecutting, create:item_application, create:mixing, create:sawing, create:automatic_shaped, minecraft:smithing, create:fan_blasting, create:automatic_shapeless, lychee:item_inside/minecraft/default, functionalstorage:dissolution, minecraft:smoking, minecraft:campfire, create:crushing, create:packing, create:fan_haunting, create:deploying, create:draining, minecraft:furnace, minecraft:fuel, create:block_cutting, minecraft:blasting, create:automatic_packing, create:milling, create:mechanical_crafting, create:spout_filling, minecraft:crafting, create:fan_smoking, create:fan_washing, create:sequenced_assembly, create:sandpaper_polishing, create:mystery_conversion, create:pressing] [java.util.ArrayList]
+[24Apr2025 20:05:03.754] [Render thread/WARN] [KubeJS/]: Failed to remove recipe minecraft:glass_bottle for type RecipeType[uid=create:draining, recipeClass=class com.simibubi.create.content.fluids.transfer.EmptyingRecipe]: Recipe doesn't exist!
+[24Apr2025 20:05:03.754] [Render thread/WARN] [KubeJS/]: Failed to remove recipe minecraft:glass_bottle for type RecipeType[uid=create:spout_filling, recipeClass=class com.simibubi.create.content.fluids.transfer.FillingRecipe]: Recipe doesn't exist!
+[24Apr2025 20:05:03.754] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime took 2.747 ms
+[24Apr2025 20:05:03.754] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Starting JEI took 239.9 ms
+[24Apr2025 20:05:03.757] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] Reloaded with no KubeJS errors!
+[24Apr2025 20:05:21.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxxane019: Set own game mode to Survival Mode]
+[24Apr2025 20:05:21.105] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] Set own game mode to Survival Mode
+[24Apr2025 20:05:41.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxxane019: Set own game mode to Creative Mode]
+[24Apr2025 20:05:41.486] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] Set own game mode to Creative Mode
+[24Apr2025 20:07:10.107] [Server thread/INFO] [KubeJS Client/]: Loaded script client_scripts:hide_recipes.js in 0.001 s
+[24Apr2025 20:07:10.107] [Server thread/INFO] [KubeJS Client/]: Loaded script client_scripts:hide_categories.js in 0.0 s
+[24Apr2025 20:07:10.107] [Server thread/INFO] [KubeJS Client/]: Loaded 2/2 KubeJS client scripts in 0.005 s with 0 errors and 0 warnings
+[24Apr2025 20:07:10.107] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] Done! To reload textures, models and other assets, press F3 + T
+[24Apr2025 20:07:11.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxxane019: Reloading!]
+[24Apr2025 20:07:11.553] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] Reloading!
+[24Apr2025 20:07:11.558] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:tags.js in 0.0 s
+[24Apr2025 20:07:11.559] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:entity_hurt.js in 0.001 s
+[24Apr2025 20:07:11.559] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:player_tick.js in 0.0 s
+[24Apr2025 20:07:11.559] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:server_load.js in 0.0 s
+[24Apr2025 20:07:11.560] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:recipes/recipes.js in 0.0 s
+[24Apr2025 20:07:11.560] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:recipes/create/pressing.js in 0.0 s
+[24Apr2025 20:07:11.560] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:recipes/create/compacting.js in 0.0 s
+[24Apr2025 20:07:11.560] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:recipes/create/sequence.js in 0.0 s
+[24Apr2025 20:07:11.561] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:recipes/lychee/item_inside.js in 0.001 s
+[24Apr2025 20:07:11.561] [Server thread/INFO] [KubeJS Server/]: Loaded 9/9 KubeJS server scripts in 0.007 s with 0 errors and 0 warnings
+[24Apr2025 20:07:11.561] [Server thread/INFO] [KubeJS Server/]: Scripts loaded
+[24Apr2025 20:07:11.561] [Server thread/INFO] [KubeJS Server/]: Initializing recipe event...
+[24Apr2025 20:07:11.566] [Worker-Main-10/INFO] [KubeJS Server/]: [minecraft:worldgen/flat_level_generator_preset] Found 1 tags, added 1 objects, removed 9 objects
+[24Apr2025 20:07:11.674] [Server thread/INFO] [KubeJS Server/]: Processing recipes...
+[24Apr2025 20:07:11.693] [Server thread/INFO] [KubeJS Server/]: Found 2377 recipes in 19.05 ms
+[24Apr2025 20:07:11.695] [Server thread/INFO] [KubeJS Server/]: Posted recipe events in 1.368 ms
+[24Apr2025 20:07:11.706] [Server thread/INFO] [KubeJS Server/]: Added 5 recipes, removed 0 recipes, modified 3 recipes, with 0 failed recipes in 10.54 ms
+[24Apr2025 20:07:11.707] [Render thread/INFO] [FTB Quests/]: cleared item display cache
+[24Apr2025 20:07:12.696] [Server thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
+[24Apr2025 20:07:12.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reloaded with no KubeJS errors!
+[24Apr2025 20:07:12.710] [Server thread/INFO] [KubeJS Server/]: Server resource reload complete!
+[24Apr2025 20:07:12.793] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
+[24Apr2025 20:07:12.865] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.client.event.RecipesUpdatedEvent
+[24Apr2025 20:07:12.865] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[24Apr2025 20:07:12.865] [Render thread/INFO] [mezz.jei.library.startup.JeiStarter/]: Stopping JEI
+[24Apr2025 20:07:12.865] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable...
+[24Apr2025 20:07:12.866] [Render thread/INFO] [mezz.jei.forge.plugins.forge.ForgeGuiPlugin/]: Stopping JEI GUI
+[24Apr2025 20:07:12.867] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable took 1.798 ms
+[24Apr2025 20:07:12.867] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from DISABLED to ENABLED
+[24Apr2025 20:07:12.867] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from ENABLED to JEI_STARTED
+[24Apr2025 20:07:12.867] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Starting JEI...
+[24Apr2025 20:07:12.867] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering item subtypes...
+[24Apr2025 20:07:12.868] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering item subtypes took 325.6 μs
+[24Apr2025 20:07:12.868] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering fluid subtypes...
+[24Apr2025 20:07:12.868] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering fluid subtypes took 270.6 μs
+[24Apr2025 20:07:12.868] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering ingredients...
+[24Apr2025 20:07:12.880] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering ingredients: jei:minecraft took 11.59 milliseconds
+[24Apr2025 20:07:12.880] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering ingredients took 12.04 ms
+[24Apr2025 20:07:12.880] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering extra ingredients...
+[24Apr2025 20:07:12.881] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering extra ingredients took 336.1 μs
+[24Apr2025 20:07:12.881] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering search ingredient aliases...
+[24Apr2025 20:07:12.881] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering search ingredient aliases took 246.8 μs
+[24Apr2025 20:07:12.881] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering categories...
+[24Apr2025 20:07:12.882] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering categories took 640.0 μs
+[24Apr2025 20:07:12.882] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering vanilla category extensions...
+[24Apr2025 20:07:12.882] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering vanilla category extensions took 248.9 μs
+[24Apr2025 20:07:12.882] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipe catalysts...
+[24Apr2025 20:07:12.883] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipe catalysts took 461.6 μs
+[24Apr2025 20:07:12.883] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building recipe registry...
+[24Apr2025 20:07:12.883] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building recipe registry took 350.1 μs
+[24Apr2025 20:07:12.883] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering advanced plugins...
+[24Apr2025 20:07:12.884] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering advanced plugins took 220.8 μs
+[24Apr2025 20:07:12.884] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes...
+[24Apr2025 20:07:12.947] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: jei:minecraft took 62.94 milliseconds
+[24Apr2025 20:07:12.979] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: create:jei_plugin took 31.95 milliseconds
+[24Apr2025 20:07:12.980] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes took 95.90 ms
+[24Apr2025 20:07:12.981] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes transfer handlers...
+[24Apr2025 20:07:12.981] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes transfer handlers took 442.7 μs
+[24Apr2025 20:07:12.982] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building runtime...
+[24Apr2025 20:07:12.982] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering gui handlers...
+[24Apr2025 20:07:12.982] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering gui handlers took 282.6 μs
+[24Apr2025 20:07:12.982] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Runtime...
+[24Apr2025 20:07:12.982] [Render thread/INFO] [mezz.jei.gui.startup.JeiGuiStarter/]: Starting JEI GUI
+[24Apr2025 20:07:12.982] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient list...
+[24Apr2025 20:07:12.992] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient list took 9.970 ms
+[24Apr2025 20:07:12.992] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient filter...
+[24Apr2025 20:07:12.994] [Render thread/INFO] [mezz.jei.gui.ingredients.IngredientFilter/]: Adding 2306 ingredients
+[24Apr2025 20:07:13.053] [Render thread/INFO] [mezz.jei.gui.ingredients.IngredientFilter/]: Added 2306 ingredients
+[24Apr2025 20:07:13.053] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient filter took 60.50 ms
+[24Apr2025 20:07:13.060] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering Runtime: jei:forge_gui took 77.41 milliseconds
+[24Apr2025 20:07:13.060] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Runtime took 77.74 ms
+[24Apr2025 20:07:13.060] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building runtime took 78.16 ms
+[24Apr2025 20:07:13.060] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime...
+[24Apr2025 20:07:13.060] [Render thread/INFO] [KubeJS Client/]: hide_recipes.js#3: [minecraft:stonecutting, create:item_application, create:mixing, create:sawing, create:automatic_shaped, minecraft:smithing, create:fan_blasting, create:automatic_shapeless, lychee:item_inside/minecraft/default, functionalstorage:dissolution, minecraft:smoking, minecraft:campfire, create:crushing, create:packing, create:fan_haunting, create:deploying, create:draining, minecraft:furnace, minecraft:fuel, create:block_cutting, minecraft:blasting, create:automatic_packing, create:milling, create:mechanical_crafting, create:spout_filling, minecraft:crafting, create:fan_smoking, create:fan_washing, create:sequenced_assembly, create:sandpaper_polishing, create:mystery_conversion, create:pressing] [java.util.ArrayList]
+[24Apr2025 20:07:13.061] [Render thread/WARN] [KubeJS/]: Failed to remove recipe minecraft:glass_bottle for type RecipeType[uid=create:draining, recipeClass=class com.simibubi.create.content.fluids.transfer.EmptyingRecipe]: Recipe doesn't exist!
+[24Apr2025 20:07:13.061] [Render thread/WARN] [KubeJS/]: Failed to remove recipe minecraft:glass_bottle for type RecipeType[uid=create:spout_filling, recipeClass=class com.simibubi.create.content.fluids.transfer.FillingRecipe]: Recipe doesn't exist!
+[24Apr2025 20:07:13.061] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime took 941.3 μs
+[24Apr2025 20:07:13.061] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Starting JEI took 193.5 ms
+[24Apr2025 20:07:13.065] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] Reloaded with no KubeJS errors!
+[24Apr2025 20:08:01.915] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[24Apr2025 20:08:01.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[24Apr2025 20:08:01.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[24Apr2025 20:08:01.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[24Apr2025 20:08:08.608] [Server thread/INFO] [KubeJS Client/]: Loaded script client_scripts:hide_recipes.js in 0.0 s
+[24Apr2025 20:08:08.608] [Server thread/INFO] [KubeJS Client/]: Loaded script client_scripts:hide_categories.js in 0.0 s
+[24Apr2025 20:08:08.608] [Server thread/INFO] [KubeJS Client/]: Loaded 2/2 KubeJS client scripts in 0.005 s with 0 errors and 0 warnings
+[24Apr2025 20:08:08.609] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] Done! To reload textures, models and other assets, press F3 + T
+[24Apr2025 20:08:09.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxxane019: Reloading!]
+[24Apr2025 20:08:09.686] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] Reloading!
+[24Apr2025 20:08:09.690] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:tags.js in 0.0 s
+[24Apr2025 20:08:09.690] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:entity_hurt.js in 0.0 s
+[24Apr2025 20:08:09.690] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:player_tick.js in 0.0 s
+[24Apr2025 20:08:09.691] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:server_load.js in 0.001 s
+[24Apr2025 20:08:09.691] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:recipes/recipes.js in 0.0 s
+[24Apr2025 20:08:09.691] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:recipes/create/pressing.js in 0.0 s
+[24Apr2025 20:08:09.691] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:recipes/create/compacting.js in 0.0 s
+[24Apr2025 20:08:09.692] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:recipes/create/sequence.js in 0.001 s
+[24Apr2025 20:08:09.692] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:recipes/lychee/item_inside.js in 0.0 s
+[24Apr2025 20:08:09.692] [Server thread/INFO] [KubeJS Server/]: Loaded 9/9 KubeJS server scripts in 0.006 s with 0 errors and 0 warnings
+[24Apr2025 20:08:09.692] [Server thread/INFO] [KubeJS Server/]: Scripts loaded
+[24Apr2025 20:08:09.693] [Server thread/INFO] [KubeJS Server/]: Initializing recipe event...
+[24Apr2025 20:08:09.697] [Worker-Main-10/INFO] [KubeJS Server/]: [minecraft:worldgen/flat_level_generator_preset] Found 1 tags, added 1 objects, removed 9 objects
+[24Apr2025 20:08:09.823] [Server thread/INFO] [KubeJS Server/]: Processing recipes...
+[24Apr2025 20:08:09.841] [Server thread/INFO] [KubeJS Server/]: Found 2377 recipes in 16.87 ms
+[24Apr2025 20:08:09.842] [Server thread/INFO] [KubeJS Server/]: Posted recipe events in 1.394 ms
+[24Apr2025 20:08:09.851] [Server thread/INFO] [KubeJS Server/]: Added 5 recipes, removed 0 recipes, modified 3 recipes, with 0 failed recipes in 8.999 ms
+[24Apr2025 20:08:09.853] [Render thread/INFO] [FTB Quests/]: cleared item display cache
+[24Apr2025 20:08:10.932] [Server thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
+[24Apr2025 20:08:10.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reloaded with no KubeJS errors!
+[24Apr2025 20:08:10.958] [Server thread/INFO] [KubeJS Server/]: Server resource reload complete!
+[24Apr2025 20:08:11.038] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
+[24Apr2025 20:08:11.104] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.client.event.RecipesUpdatedEvent
+[24Apr2025 20:08:11.104] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[24Apr2025 20:08:11.104] [Render thread/INFO] [mezz.jei.library.startup.JeiStarter/]: Stopping JEI
+[24Apr2025 20:08:11.104] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable...
+[24Apr2025 20:08:11.105] [Render thread/INFO] [mezz.jei.forge.plugins.forge.ForgeGuiPlugin/]: Stopping JEI GUI
+[24Apr2025 20:08:11.106] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable took 1.302 ms
+[24Apr2025 20:08:11.106] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from DISABLED to ENABLED
+[24Apr2025 20:08:11.106] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from ENABLED to JEI_STARTED
+[24Apr2025 20:08:11.106] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Starting JEI...
+[24Apr2025 20:08:11.106] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering item subtypes...
+[24Apr2025 20:08:11.106] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering item subtypes took 223.6 μs
+[24Apr2025 20:08:11.106] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering fluid subtypes...
+[24Apr2025 20:08:11.106] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering fluid subtypes took 237.4 μs
+[24Apr2025 20:08:11.107] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering ingredients...
+[24Apr2025 20:08:11.116] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering ingredients took 9.459 ms
+[24Apr2025 20:08:11.116] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering extra ingredients...
+[24Apr2025 20:08:11.116] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering extra ingredients took 258.3 μs
+[24Apr2025 20:08:11.116] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering search ingredient aliases...
+[24Apr2025 20:08:11.117] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering search ingredient aliases took 223.4 μs
+[24Apr2025 20:08:11.117] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering categories...
+[24Apr2025 20:08:11.118] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering categories took 611.6 μs
+[24Apr2025 20:08:11.118] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering vanilla category extensions...
+[24Apr2025 20:08:11.118] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering vanilla category extensions took 202.0 μs
+[24Apr2025 20:08:11.118] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipe catalysts...
+[24Apr2025 20:08:11.118] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipe catalysts took 407.4 μs
+[24Apr2025 20:08:11.118] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building recipe registry...
+[24Apr2025 20:08:11.119] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building recipe registry took 328.8 μs
+[24Apr2025 20:08:11.119] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering advanced plugins...
+[24Apr2025 20:08:11.119] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering advanced plugins took 192.7 μs
+[24Apr2025 20:08:11.119] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes...
+[24Apr2025 20:08:11.164] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: jei:minecraft took 45.17 milliseconds
+[24Apr2025 20:08:11.190] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: create:jei_plugin took 25.70 milliseconds
+[24Apr2025 20:08:11.191] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes took 71.70 ms
+[24Apr2025 20:08:11.192] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes transfer handlers...
+[24Apr2025 20:08:11.192] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes transfer handlers took 380.9 μs
+[24Apr2025 20:08:11.192] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building runtime...
+[24Apr2025 20:08:11.192] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering gui handlers...
+[24Apr2025 20:08:11.193] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering gui handlers took 245.7 μs
+[24Apr2025 20:08:11.193] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Runtime...
+[24Apr2025 20:08:11.193] [Render thread/INFO] [mezz.jei.gui.startup.JeiGuiStarter/]: Starting JEI GUI
+[24Apr2025 20:08:11.193] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient list...
+[24Apr2025 20:08:11.201] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient list took 8.330 ms
+[24Apr2025 20:08:11.201] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient filter...
+[24Apr2025 20:08:11.203] [Render thread/INFO] [mezz.jei.gui.ingredients.IngredientFilter/]: Adding 2306 ingredients
+[24Apr2025 20:08:11.253] [Render thread/INFO] [mezz.jei.gui.ingredients.IngredientFilter/]: Added 2306 ingredients
+[24Apr2025 20:08:11.253] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient filter took 51.32 ms
+[24Apr2025 20:08:11.264] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering Runtime: jei:forge_gui took 71.09 milliseconds
+[24Apr2025 20:08:11.264] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Runtime took 71.46 ms
+[24Apr2025 20:08:11.264] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building runtime took 71.84 ms
+[24Apr2025 20:08:11.264] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime...
+[24Apr2025 20:08:11.265] [Render thread/INFO] [KubeJS Client/]: hide_recipes.js#3: [minecraft:stonecutting, create:item_application, create:mixing, create:sawing, create:automatic_shaped, minecraft:smithing, create:fan_blasting, create:automatic_shapeless, lychee:item_inside/minecraft/default, functionalstorage:dissolution, minecraft:smoking, minecraft:campfire, create:crushing, create:packing, create:fan_haunting, create:deploying, create:draining, minecraft:furnace, minecraft:fuel, create:block_cutting, minecraft:blasting, create:automatic_packing, create:milling, create:mechanical_crafting, create:spout_filling, minecraft:crafting, create:fan_smoking, create:fan_washing, create:sequenced_assembly, create:sandpaper_polishing, create:mystery_conversion, create:pressing] [java.util.ArrayList]
+[24Apr2025 20:08:11.266] [Render thread/WARN] [KubeJS/]: Failed to remove recipe minecraft:glass_bottle for type RecipeType[uid=create:draining, recipeClass=class com.simibubi.create.content.fluids.transfer.EmptyingRecipe]: Recipe doesn't exist!
+[24Apr2025 20:08:11.266] [Render thread/WARN] [KubeJS/]: Failed to remove recipe minecraft:glass_bottle for type RecipeType[uid=create:spout_filling, recipeClass=class com.simibubi.create.content.fluids.transfer.FillingRecipe]: Recipe doesn't exist!
+[24Apr2025 20:08:11.266] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime took 1.370 ms
+[24Apr2025 20:08:11.266] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Starting JEI took 159.9 ms
+[24Apr2025 20:08:11.270] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] Reloaded with no KubeJS errors!
+[24Apr2025 20:08:52.515] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[24Apr2025 20:08:52.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[24Apr2025 20:08:52.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[24Apr2025 20:08:52.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[24Apr2025 20:09:10.897] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] The following recipe ID was copied to the clipboard: create:filling/glowstone
+[24Apr2025 20:09:12.794] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] The following recipe ID was copied to the clipboard: create:potions
+[24Apr2025 20:09:32.610] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] The following recipe ID was copied to the clipboard: create:filling/grass_block
+[24Apr2025 20:11:39.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxxane019: Reloading!]
+[24Apr2025 20:11:39.082] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] Reloading!
+[24Apr2025 20:11:39.086] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:tags.js in 0.001 s
+[24Apr2025 20:11:39.086] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:entity_hurt.js in 0.0 s
+[24Apr2025 20:11:39.086] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:player_tick.js in 0.0 s
+[24Apr2025 20:11:39.087] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:server_load.js in 0.001 s
+[24Apr2025 20:11:39.087] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:recipes/recipes.js in 0.0 s
+[24Apr2025 20:11:39.087] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:recipes/create/pressing.js in 0.0 s
+[24Apr2025 20:11:39.087] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:recipes/create/compacting.js in 0.0 s
+[24Apr2025 20:11:39.087] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:recipes/create/sequence.js in 0.0 s
+[24Apr2025 20:11:39.088] [Server thread/INFO] [KubeJS Server/]: Loaded script server_scripts:recipes/lychee/item_inside.js in 0.001 s
+[24Apr2025 20:11:39.088] [Server thread/INFO] [KubeJS Server/]: Loaded 9/9 KubeJS server scripts in 0.007 s with 0 errors and 0 warnings
+[24Apr2025 20:11:39.088] [Server thread/INFO] [KubeJS Server/]: Scripts loaded
+[24Apr2025 20:11:39.088] [Server thread/INFO] [KubeJS Server/]: Initializing recipe event...
+[24Apr2025 20:11:39.092] [Worker-Main-4/INFO] [KubeJS Server/]: [minecraft:worldgen/flat_level_generator_preset] Found 1 tags, added 1 objects, removed 9 objects
+[24Apr2025 20:11:39.203] [Server thread/INFO] [KubeJS Server/]: Processing recipes...
+[24Apr2025 20:11:39.219] [Server thread/INFO] [KubeJS Server/]: Found 2377 recipes in 15.19 ms
+[24Apr2025 20:11:39.221] [Server thread/INFO] [KubeJS Server/]: Posted recipe events in 1.704 ms
+[24Apr2025 20:11:39.221] [Server thread/INFO] [KubeJS Server/]: Added 5 recipes, removed 2377 recipes, modified 0 recipes, with 0 failed recipes in 665.2 μs
+[24Apr2025 20:11:39.227] [Render thread/INFO] [FTB Quests/]: cleared item display cache
+[24Apr2025 20:11:40.208] [Server thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
+[24Apr2025 20:11:40.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reloaded with no KubeJS errors!
+[24Apr2025 20:11:40.219] [Server thread/INFO] [KubeJS Server/]: Server resource reload complete!
+[24Apr2025 20:11:40.305] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
+[24Apr2025 20:11:40.305] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.client.event.RecipesUpdatedEvent
+[24Apr2025 20:11:40.306] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[24Apr2025 20:11:40.306] [Render thread/INFO] [mezz.jei.library.startup.JeiStarter/]: Stopping JEI
+[24Apr2025 20:11:40.306] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable...
+[24Apr2025 20:11:40.306] [Render thread/INFO] [mezz.jei.forge.plugins.forge.ForgeGuiPlugin/]: Stopping JEI GUI
+[24Apr2025 20:11:40.307] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable took 1.287 ms
+[24Apr2025 20:11:40.307] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from DISABLED to ENABLED
+[24Apr2025 20:11:40.307] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from ENABLED to JEI_STARTED
+[24Apr2025 20:11:40.307] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Starting JEI...
+[24Apr2025 20:11:40.307] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering item subtypes...
+[24Apr2025 20:11:40.307] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering item subtypes took 216.6 μs
+[24Apr2025 20:11:40.307] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering fluid subtypes...
+[24Apr2025 20:11:40.308] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering fluid subtypes took 195.3 μs
+[24Apr2025 20:11:40.308] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering ingredients...
+[24Apr2025 20:11:40.317] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering ingredients took 9.158 ms
+[24Apr2025 20:11:40.317] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering extra ingredients...
+[24Apr2025 20:11:40.317] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering extra ingredients took 297.9 μs
+[24Apr2025 20:11:40.317] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering search ingredient aliases...
+[24Apr2025 20:11:40.318] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering search ingredient aliases took 271.7 μs
+[24Apr2025 20:11:40.318] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering categories...
+[24Apr2025 20:11:40.318] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering categories took 650.2 μs
+[24Apr2025 20:11:40.319] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering vanilla category extensions...
+[24Apr2025 20:11:40.319] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering vanilla category extensions took 209.7 μs
+[24Apr2025 20:11:40.319] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipe catalysts...
+[24Apr2025 20:11:40.319] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipe catalysts took 471.0 μs
+[24Apr2025 20:11:40.319] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building recipe registry...
+[24Apr2025 20:11:40.320] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building recipe registry took 362.8 μs
+[24Apr2025 20:11:40.320] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering advanced plugins...
+[24Apr2025 20:11:40.320] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering advanced plugins took 225.1 μs
+[24Apr2025 20:11:40.320] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes...
+[24Apr2025 20:11:40.345] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: jei:minecraft took 24.60 milliseconds
+[24Apr2025 20:11:40.352] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes took 31.40 ms
+[24Apr2025 20:11:40.352] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes transfer handlers...
+[24Apr2025 20:11:40.352] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes transfer handlers took 312.7 μs
+[24Apr2025 20:11:40.352] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building runtime...
+[24Apr2025 20:11:40.352] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering gui handlers...
+[24Apr2025 20:11:40.353] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering gui handlers took 254.3 μs
+[24Apr2025 20:11:40.353] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Runtime...
+[24Apr2025 20:11:40.353] [Render thread/INFO] [mezz.jei.gui.startup.JeiGuiStarter/]: Starting JEI GUI
+[24Apr2025 20:11:40.353] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient list...
+[24Apr2025 20:11:40.361] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient list took 8.222 ms
+[24Apr2025 20:11:40.361] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient filter...
+[24Apr2025 20:11:40.362] [Render thread/INFO] [mezz.jei.gui.ingredients.IngredientFilter/]: Adding 2306 ingredients
+[24Apr2025 20:11:40.413] [Render thread/INFO] [mezz.jei.gui.ingredients.IngredientFilter/]: Added 2306 ingredients
+[24Apr2025 20:11:40.413] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient filter took 51.71 ms
+[24Apr2025 20:11:40.420] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering Runtime: jei:forge_gui took 66.69 milliseconds
+[24Apr2025 20:11:40.420] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Runtime took 67.04 ms
+[24Apr2025 20:11:40.420] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building runtime took 67.42 ms
+[24Apr2025 20:11:40.420] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime...
+[24Apr2025 20:11:40.420] [Render thread/INFO] [KubeJS Client/]: hide_recipes.js#3: [minecraft:crafting, lychee:item_inside/minecraft/default, create:item_application, create:draining, minecraft:fuel, create:mystery_conversion, create:packing, create:spout_filling, create:pressing] [java.util.ArrayList]
+[24Apr2025 20:11:40.420] [Render thread/WARN] [KubeJS/]: Failed to remove recipe minecraft:glass_bottle for type RecipeType[uid=create:spout_filling, recipeClass=class com.simibubi.create.content.fluids.transfer.FillingRecipe]: Recipe doesn't exist!
+[24Apr2025 20:11:40.421] [Render thread/WARN] [KubeJS/]: Failed to remove recipe minecraft:glass_bottle for type RecipeType[uid=create:draining, recipeClass=class com.simibubi.create.content.fluids.transfer.EmptyingRecipe]: Recipe doesn't exist!
+[24Apr2025 20:11:40.421] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime took 723.7 μs
+[24Apr2025 20:11:40.421] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Starting JEI took 113.6 ms
+[24Apr2025 20:11:40.422] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] Reloaded with no KubeJS errors!
+[24Apr2025 20:13:33.765] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[24Apr2025 20:13:33.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[24Apr2025 20:13:33.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[24Apr2025 20:13:33.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[24Apr2025 20:13:33.865] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[24Apr2025 20:13:33.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[24Apr2025 20:13:33.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[24Apr2025 20:13:33.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[24Apr2025 20:13:34.715] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[24Apr2025 20:13:34.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[24Apr2025 20:13:34.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[24Apr2025 20:13:34.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[24Apr2025 20:14:07.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxxane019: Set own game mode to Survival Mode]
+[24Apr2025 20:14:07.525] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] Set own game mode to Survival Mode
+[24Apr2025 20:14:14.765] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[24Apr2025 20:14:14.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[24Apr2025 20:14:14.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[24Apr2025 20:14:14.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[24Apr2025 20:15:05.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxxane019: Set own game mode to Creative Mode]
+[24Apr2025 20:15:05.525] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] Set own game mode to Creative Mode
+[24Apr2025 20:15:06.815] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[24Apr2025 20:15:06.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[24Apr2025 20:15:06.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[24Apr2025 20:15:06.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[24Apr2025 20:39:14.215] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[24Apr2025 20:39:14.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[24Apr2025 20:39:14.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[24Apr2025 20:39:14.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[24Apr2025 20:39:37.965] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[24Apr2025 20:39:37.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[24Apr2025 20:39:37.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[24Apr2025 20:39:37.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[24Apr2025 20:42:51.115] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[24Apr2025 20:42:51.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[24Apr2025 20:42:51.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[24Apr2025 20:42:51.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether

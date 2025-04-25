@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "74dd7dbd496f477d83d5671d11deb666"
+	name: "Roxxane019#74dd7dbd"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
