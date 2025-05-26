@@ -1,0 +1,8 @@
+switch:
+    enabled: true
+    cascading: true
+blocks:
+    - "spruce_planks"
+    - "scaffolding"
+    - "barrel"
+    - "create:clipboard"

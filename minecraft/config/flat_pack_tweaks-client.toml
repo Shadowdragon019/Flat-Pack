@@ -1,0 +1,9 @@
+#Range: > -2147483648
+value_settings_dark_color = 0
+
+[tooltips]
+	"create:mechanical_drill" = ["tooltip.kubejs.drill"]
+	"kubejs:hot_raw_iron" = ["tooltip.kubejs.create_fire"]
+	"kubejs:lube" = ["tooltip.kubejs.create_fire"]
+	slime_ball = ["tooltip.kubejs.slime_ball"]
+

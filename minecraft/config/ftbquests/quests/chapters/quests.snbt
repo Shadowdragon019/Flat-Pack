@@ -6,15 +6,151 @@
 	id: "6B13B65977871B1B"
 	order_index: 0
 	quest_links: [ ]
-	quests: [{
-		id: "683D7626FB9AE6D3"
-		tasks: [{
-			id: "74C078008051792B"
-			item: "minecraft:raw_iron_block"
-			type: "item"
-		}]
-		x: 0.0d
-		y: -0.5d
-	}]
+	quests: [
+		{
+			dependencies: [
+				"58E90ECF39F0643D"
+				"3184C03F23149E8F"
+				"09B882D4F3B0A185"
+			]
+			disable_toast: true
+			icon: "create:andesite_casing"
+			id: "32E9D027B18A2B7E"
+			subtitle: "Yay! Now do that a bunch more times! Oh wait, this is just an alpha"
+			tasks: [{
+				disable_toast: true
+				id: "4E8F6B8AB9F7322F"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: 4.5d
+		}
+		{
+			disable_toast: true
+			icon: "minecraft:spruce_sapling"
+			id: "079443ACC4004B9F"
+			subtitle: "Back to basics!"
+			tasks: [{
+				disable_toast: true
+				id: "1FCA21DBB96162DF"
+				type: "checkmark"
+			}]
+			title: "Trees"
+			x: 0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"3E6A634CB939B7DD"
+				"079443ACC4004B9F"
+			]
+			dependency_requirement: "one_completed"
+			disable_toast: true
+			icon: "minecraft:spruce_planks"
+			id: "58E90ECF39F0643D"
+			subtitle: "Witty joke"
+			tasks: [{
+				disable_toast: true
+				id: "29B42BA2553321F7"
+				type: "checkmark"
+			}]
+			title: "Planks"
+			x: 2.5d
+			y: 2.5d
+		}
+		{
+			disable_toast: true
+			icon: "minecraft:raw_iron"
+			id: "0B4F1B73B18B037A"
+			subtitle: "Hard \\& crunchy like a jawbreaker, expect it would"
+			tasks: [{
+				disable_toast: true
+				id: "37619994E5217273"
+				type: "checkmark"
+			}]
+			title: "Raw Iron"
+			x: 8.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["0B4F1B73B18B037A"]
+			disable_toast: true
+			icon: "kubejs:hot_raw_iron"
+			id: "310BB4956881A437"
+			subtitle: "Soft \\& mallable, would feel nice in your mouth"
+			tasks: [{
+				disable_toast: true
+				id: "3F373F32BF0CD224"
+				type: "checkmark"
+			}]
+			title: "Hot Iron"
+			x: 6.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["310BB4956881A437"]
+			disable_toast: true
+			icon: "kubejs:hot_raw_iron_sheet"
+			id: "28178141F830E411"
+			subtitle: "Would melt your hands in your hands"
+			tasks: [{
+				disable_toast: true
+				id: "2EC126E28F044A3F"
+				type: "checkmark"
+			}]
+			title: "Hot Iron Sheet"
+			x: 5.5d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"28178141F830E411"
+				"310BB4956881A437"
+			]
+			dependency_requirement: "one_completed"
+			disable_toast: true
+			icon: "create:iron_sheet"
+			id: "3184C03F23149E8F"
+			subtitle: "This thing is weirdly good to smack people with"
+			tasks: [{
+				disable_toast: true
+				id: "5C779F845DEF0B7B"
+				type: "checkmark"
+			}]
+			title: "Iron Sheet"
+			x: 4.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["09B882D4F3B0A185"]
+			disable_toast: true
+			icon: "kubejs:lube"
+			id: "3E6A634CB939B7DD"
+			subtitle: "Totally accurate to reality"
+			tasks: [{
+				disable_toast: true
+				id: "7A5B06B18BBF7F2C"
+				type: "checkmark"
+			}]
+			title: "Lube"
+			x: 1.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["079443ACC4004B9F"]
+			disable_toast: true
+			icon: "minecraft:slime_ball"
+			id: "09B882D4F3B0A185"
+			subtitle: "Because trees are super slimey"
+			tasks: [{
+				disable_toast: true
+				id: "0AA9D84C8E9B440C"
+				type: "checkmark"
+			}]
+			title: "Slimeball"
+			x: 0.5d
+			y: 4.5d
+		}
+	]
 	title: "Quests"
 }

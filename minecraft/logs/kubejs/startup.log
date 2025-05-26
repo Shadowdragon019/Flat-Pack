@@ -1,10 +1,11 @@
-[20:00:59] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[20:00:59] [INIT] Loaded plugins:
-[20:00:59] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[20:00:59] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[20:00:59] [INIT] - pie.ilikepiefoo.kubejsoffline.OfflinePlugin
-[20:00:59] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[20:00:59] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
-[20:00:59] [INFO] Loaded script startup_scripts:block_modification.js in 0.049 s
-[20:00:59] [INFO] Loaded script startup_scripts:custom_items.js in 0.001 s
-[20:00:59] [INFO] Loaded 2/2 KubeJS startup scripts in 0.391 s with 0 errors and 0 warnings
+[21:45:03] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[21:45:03] [INIT] Loaded plugins:
+[21:45:03] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[21:45:03] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[21:45:03] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[21:45:03] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[21:45:03] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
+[21:45:03] [INIT] - com.probejs.ProbeJSPlugin
+[21:45:04] [INFO] Loaded script startup_scripts:block_modification.js in 0.038 s
+[21:45:04] [INFO] Loaded script startup_scripts:custom_items.js in 0.0 s
+[21:45:04] [INFO] Loaded 2/2 KubeJS startup scripts in 0.357 s with 0 errors and 0 warnings

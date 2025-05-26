@@ -1,0 +1,33 @@
+wrench_can_pickup_anything_destructible = true
+all_items_are_fireproof = true
+#Range: > -2147483648
+hand_crank_rotation_speed = 64
+remove_toolbox_recipes_from_jei = true
+#By default, water wheels have 8 speed & large water wheels have 4 speed
+#Range: 0.0 ~ 1.7976931348623157E308
+water_wheel_speed_factor = 2.0
+super_glue = "slime_ball"
+switchers = [["create:andesite_casing", "create:wrench", "create:encased_chain_drive", "create:large_water_wheel", "create:encased_fan", "create:hand_crank", "create:crushing_wheel", "create:mechanical_press", "create:mechanical_mixer", "create:basin", "create:depot", "create:speedometer", "create:mechanical_bearing", "create:mechanical_drill", "create:deployer", "create:portable_storage_interface", "create:brass_tunnel", "create:brass_funnel", "create:mechanical_saw", "create:nozzle"], ["create:iron_sheet", "bucket", "water_bucket", "lava_bucket"], ["spruce_planks", "scaffolding", "barrel", "create:clipboard"]]
+
+[infini_drilling_recipes]
+
+	[infini_drilling_recipes.raw_iron_block]
+		hardness = 1.0
+		item = "raw_iron"
+
+	[infini_drilling_recipes.stone]
+		hardness = -1.0
+		generates_fire = true
+
+[[block_to_item_recipes]]
+	item_in = "raw_iron"
+	item_out = "kubejs:hot_raw_iron"
+	block = "fire"
+	consume_block = true
+
+[[block_to_item_recipes]]
+	item_in = "kubejs:hot_raw_iron_sheet"
+	item_out = "create:iron_sheet"
+	block = "water"
+	consume_block = false
+

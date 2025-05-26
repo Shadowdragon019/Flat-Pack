@@ -1,11 +1,5 @@
 {
-	"carvers": {
-		"air": [
-			"cave",
-			"cave_extra_underground",
-			"canyon"
-		]
-	},
+	"carvers": {},
 	"downfall": 0.4,
 	"effects": {
 		"fog_color": 12638463,
@@ -22,19 +16,20 @@
 	"features": [
 		[],
 		[
-
+			"water_lake"
 		],
 		[],
 		[],
 		[],
 		[],
 		[
-
+			"dirt",
+			"raw_iron"
 		],
 		[],
 		[],
 		[
-
+			"trees_taiga"
 		],
 		[]
 	],

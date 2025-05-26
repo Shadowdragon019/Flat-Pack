@@ -1,0 +1,7 @@
+switch:
+    enabled: true
+    cascading: true
+items:
+    - "create:iron_sheet"
+    - "bucket"
+    - "water_bucket"

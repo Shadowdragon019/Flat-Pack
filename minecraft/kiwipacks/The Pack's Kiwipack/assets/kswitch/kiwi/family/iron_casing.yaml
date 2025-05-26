@@ -1,0 +1,21 @@
+switch:
+    enabled: true
+    cascading: true
+items:
+    - "create:andesite_casing"
+    - "create:wrench"
+    - "create:encased_chain_drive"
+    - "create:large_water_wheel"
+    - "create:encased_fan"
+    - "create:hand_crank"
+    - "create:mechanical_press"
+    - "create:basin"
+    - "create:depot"
+    - "create:mechanical_bearing"
+    - "create:mechanical_drill"
+    - "create:deployer"
+    - "create:portable_storage_interface"
+    - "create:brass_tunnel"
+    - "create:brass_funnel"
+    - "create:mechanical_saw"
+    - "create:nozzle"

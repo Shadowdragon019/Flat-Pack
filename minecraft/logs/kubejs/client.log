@@ -1,12 +1,12 @@
-[20:08:08] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[20:08:08] [INIT] Loaded plugins:
-[20:08:08] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[20:08:08] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[20:08:08] [INIT] - pie.ilikepiefoo.kubejsoffline.OfflinePlugin
-[20:08:08] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[20:08:08] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
-[20:08:08] [INFO] Loaded script client_scripts:hide_recipes.js in 0.0 s
-[20:08:08] [INFO] Loaded script client_scripts:hide_categories.js in 0.0 s
-[20:08:08] [INFO] Loaded 2/2 KubeJS client scripts in 0.005 s with 0 errors and 0 warnings
-[20:08:11] [INFO] hide_recipes.js#3: [minecraft:stonecutting, create:item_application, create:mixing, create:sawing, create:automatic_shaped, minecraft:smithing, create:fan_blasting, create:automatic_shapeless, lychee:item_inside/minecraft/default, functionalstorage:dissolution, minecraft:smoking, minecraft:campfire, create:crushing, create:packing, create:fan_haunting, create:deploying, create:draining, minecraft:furnace, minecraft:fuel, create:block_cutting, minecraft:blasting, create:automatic_packing, create:milling, create:mechanical_crafting, create:spout_filling, minecraft:crafting, create:fan_smoking, create:fan_washing, create:sequenced_assembly, create:sandpaper_polishing, create:mystery_conversion, create:pressing] [java.util.ArrayList]
-[20:11:40] [INFO] hide_recipes.js#3: [minecraft:crafting, lychee:item_inside/minecraft/default, create:item_application, create:draining, minecraft:fuel, create:mystery_conversion, create:packing, create:spout_filling, create:pressing] [java.util.ArrayList]
+[21:46:04] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[21:46:04] [INIT] Loaded plugins:
+[21:46:04] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[21:46:04] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[21:46:04] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[21:46:04] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[21:46:04] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
+[21:46:04] [INIT] - com.probejs.ProbeJSPlugin
+[21:46:04] [INFO] Loaded script client_scripts:hide_recipes.js in 0.0 s
+[21:46:04] [INFO] Loaded script client_scripts:hide_categories.js in 0.0 s
+[21:46:04] [INFO] Loaded 2/2 KubeJS client scripts in 0.006 s with 0 errors and 0 warnings
+[21:46:04] [INFO] Client resource reload complete!
